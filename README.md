@@ -65,9 +65,9 @@ I'm an absolute fan of collaboration, actively building practical projects to co
 ## Featured Projects
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibAhmad05&repo=SketchLogic&theme=tokyonight)](https://github.com/ShahzaibAhmad05/SketchLogic)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d-khalid&repo=IRis&theme=tokyonight)](https://github.com/d-khalid/IRis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibAhmad05&repo=IRis-backend&theme=tokyonight)](https://github.com/ShahzaibAhmad05/IRis-backend)
   
 </div>
 
