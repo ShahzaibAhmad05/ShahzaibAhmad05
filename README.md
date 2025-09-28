@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Developer;Always+Learning;Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Developer;Always+Building" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 Software Engineering undergraduate at **SEECS, NUST**
 
-I'm an absolute fan of collaboration, actively building practical projects to contribute to the open-source community.
+I'm an absolute fan of collaboration, and of building practical projects to contribute to the open-source community.
 
 ---
 
@@ -54,12 +54,6 @@ I'm an absolute fan of collaboration, actively building practical projects to co
 
 </br>
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAhmad05&theme=tokyo-night&hide_border=true" width="100%"/>
-  
-</div>
-
 ---
 
 ## Featured Projects
@@ -76,8 +70,6 @@ I'm an absolute fan of collaboration, actively building practical projects to co
 ## Connect With Me
 
 <div align="left">
-
-*Open to collaborations, exciting projects, and meaningful conversations!*
 
 If you're looking to discuss a project idea or just need a development partner — I'm always excited to connect with fellow developers and innovators.
 
