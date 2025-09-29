@@ -45,12 +45,18 @@ I'm an absolute fan of collaboration, and of building practical projects to cont
 
 ## Contribution Stats
 
-<div align="center">
+<!-- <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAhmad05&layout=compact&langs_count=8&theme=tokyonight"/>
   
-</div>
+</div> -->
+
+| <a href="https://github.com/ShahzaibAhmad05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAhmad05&theme=github_dark" /></a> |
+| ------------- | ------------- |
+
+ | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAhmad05&layout=compact&theme=github_dark&hide_border=true" /></a> ||
+ | ------------- | ------------- |
 
 </br>
 
