@@ -37,9 +37,6 @@ I'm an absolute fan of collaboration, and of building practical projects to cont
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 
-### Currently Learning
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
-
 </div>
 
 ---
