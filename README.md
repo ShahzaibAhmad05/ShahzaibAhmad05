@@ -77,7 +77,7 @@ I'm an absolute fan of collaboration, and of building practical projects to cont
 
 <div align="left">
 
-If you're looking to discuss a project idea or just need a development partner — I'm always excited to connect with fellow developers and innovators.
+If you're looking to discuss a project idea or just need a development partner :)
 
 ### Reach Me At:
 
