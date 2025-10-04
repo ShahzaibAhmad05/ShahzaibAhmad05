@@ -1,16 +1,17 @@
 <!-- Banner with my name -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shahzaib%20Ahmad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
-</div>
+</div> -->
 
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Developer;Always+Building" alt="Typing SVG" />
+  <img src="https://drive.google.com/uc?export=view&id=1FhokRmTe9XHu-60ZdUNL0PPxEP9C05No" width="80%" />
 </div>
 
----
-
-## About Me
+<!-- Typing Animation Commented out -->
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Developer;Always+Building" alt="Typing SVG" />
+</div> -->
+<br>
 
 Software Engineering undergraduate at **SEECS, NUST**
 
@@ -60,7 +61,7 @@ I'm an absolute fan of collaboration, and of building practical projects to cont
 
 </br>
 
----
+<!-- ---
 
 ## Featured Projects
 
@@ -70,6 +71,8 @@ I'm an absolute fan of collaboration, and of building practical projects to cont
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibAhmad05&repo=IRis-backend&theme=tokyonight)](https://github.com/ShahzaibAhmad05/IRis-backend)
   
 </div>
+
+-->
 
 ---
 
@@ -86,6 +89,6 @@ If you're looking to discuss a project idea or just need a development partner :
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+</div> -->
