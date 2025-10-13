@@ -32,8 +32,13 @@ Gradually building my GitHub profile and Contributing to the open source communi
 
 ---
 
-| <a href="https://github.com/ShahzaibAhmad05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true" alt="Shahzaib's github stats" /></a> | <a href="https://github.com/Sabbirfeni/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAhmad05&theme=github_dark" /></a> |
-| ------------- | ------------- |
+<table>
+  <tr>
+    <td>
+<a href="https://github.com/ShahzaibAhmad05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true" alt="Shahzaib's github stats" /></a>
+</td>
+  </tr>
+</table>
 
 ---
 
