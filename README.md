@@ -6,7 +6,7 @@
 
 Software Engineering undergraduate at **SEECS, NUST**
 
-An absolute fan of collaboration, gradually building my GitHub profile and Contributing to the open source community.
+Gradually building my GitHub profile and Contributing to the open source community.
 
 ---
 
