@@ -44,7 +44,7 @@ Gradually building my GitHub profile and Contributing to the open source communi
 
 <div align="left">
 
-If you're looking to discuss a project idea or just need a development partner :)
+If you're looking to discuss a project idea or even if u just need a development partner :)
 
 ### Reach Me At:
 
