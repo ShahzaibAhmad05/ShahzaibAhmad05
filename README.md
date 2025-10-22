@@ -14,7 +14,6 @@ Gradually building my GitHub profile and Contributing to the open source communi
 
 <div align="left">
   
-### Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
@@ -23,7 +22,7 @@ Gradually building my GitHub profile and Contributing to the open source communi
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-### Frameworks
+
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
