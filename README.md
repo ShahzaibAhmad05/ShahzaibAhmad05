@@ -6,8 +6,6 @@
 
 Software Engineering undergraduate at **SEECS, NUST**
 
-Gradually building my GitHub profile and Contributing to the open source community.
-
 ---
 
 ## My Tech Stack
