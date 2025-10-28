@@ -1,14 +1,8 @@
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1FhokRmTe9XHu-60ZdUNL0PPxEP9C05No" width="80%" />
-</div>
 
-<br>
 
 Software Engineering undergraduate at **SEECS, NUST**
 
 ---
-
-## My Tech Stack
 
 <div align="left">
   
