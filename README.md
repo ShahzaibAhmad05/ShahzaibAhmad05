@@ -1,4 +1,4 @@
-<hr>
+
 
 Software Engineering undergraduate at **SEECS, NUST**
 
@@ -31,15 +31,3 @@ Software Engineering undergraduate at **SEECS, NUST**
   </tr>
 </table>
 
----
-
-<div align="left">
-
-If you're looking to discuss a project idea or even if u just need a development partner :)
-
-### Reach Me At:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahzaibahmad05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibahmad05)
-[![Gmail](https://img.shields.io/badge/Gmail-shahzaibahmad6789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibahmad6789@gmail.com)
-  
-</div>
