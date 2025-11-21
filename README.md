@@ -1,4 +1,13 @@
 
+<table>
+  <tr>
+    <td>
+<a href="https://github.com/ShahzaibAhmad05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true" alt="Shahzaib's github stats" /></a>
+</td>
+  </tr>
+</table>
+
+---
 
 Software Engineering undergraduate at **SEECS, NUST**
 
@@ -21,13 +30,5 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 </div>
 
----
 
-<table>
-  <tr>
-    <td>
-<a href="https://github.com/ShahzaibAhmad05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true" alt="Shahzaib's github stats" /></a>
-</td>
-  </tr>
-</table>
 
