@@ -28,6 +28,8 @@ Software Engineering undergraduate at **SEECS, NUST**
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+
 </div>
 
 
