@@ -16,21 +16,70 @@ Software Engineering undergraduate at **SEECS, NUST**
 <div align="left">
   
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![YOLO](https://img.shields.io/badge/-YOLO-000000?style=flat&logo=opencv)
 
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![Avalonia](https://img.shields.io/badge/-Avalonia-000000?style=flat&logo=dotnet)
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
 
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+
 
 </div>
+
+<hr />
+
+Here's a list of some of my Projects:
+
+<table>
+  <thead>
+    <tr>
+      <th>SNo.</th>
+      <th>Project Details</th>
+      <th>Repositories</th>
+      <th>Featured</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        <h2>IRis X Sketchlogic</h2>
+        <p>An AI-powered Circuit Simulator built to throw your handrawn Logic Circuits into Simulation through Machine Learning along with various Image processing techniques.
+        </p>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
+        <br><br>
+        <a href="https://github.com/ShahzaibAhmad05/SketchLogic">SketchLogic - Circuit Metadata Detector</a>
+      </td>
+      <td>
+        <p>
+          <code>C#</code>, <code>Avalonia</code>, <code>Python</code>, <code>Flask</code>,
+          <code>YOLO</code>, <code>React</code>, <code>TypeScript</code>, <code>TailwindCSS</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Pre-release (v0.1.1)</b> Available (for Download and Live Demo) at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
+        </p>
+        <p>
+          Backend Live at: <a href="https://sketchlogic.onrender.app/api/health">SketchLogic.onrender.app</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <hr />
 
