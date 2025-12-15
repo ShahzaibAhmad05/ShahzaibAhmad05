@@ -107,6 +107,41 @@ Here's a list of some of my Projects:
 
 <hr />
 
-Checkout my Portfolio [here](shahzaibahmad.vercel.app)
+Here's a list of useful Tools I created:
+
+<table>
+  <thead>
+    <tr>
+      <th>SNo.</th>
+      <th>Tool Details</th>
+      <th>Repository</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        <h2>PrintStruct</h2>
+        <p>
+          A python CLI script for printing the Structure of your Project in a Visual, easy-to-read format. Works with gitignore files.
+        </p>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/shahzaibahmad05/PrintStruct">PrintStruct</a>
+      </td>
+      <td>
+        <p>
+          <b>Pre-release (v0.1.0)</b> Available; Checkout by Visiting the repository
+        </p>
+      </td>
+      <!-- Project Number 2 -->
+  </tbody>
+</table>
+
+<hr>
+
+Checkout my Portfolio Site [here](shahzaibahmad.vercel.app)
 
 
