@@ -34,6 +34,6 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 <hr />
 
-Checkout my Portfolio [here](shahzaibahmad-portfolio.vercel.app)
+Checkout my Portfolio [here](shahzaibahmad.vercel.app)
 
 
