@@ -77,6 +77,30 @@ Here's a list of some of my Projects:
           Backend Live at: <a href="https://sketchlogic.onrender.app/api/health">SketchLogic.onrender.app</a>
         </p>
       </td>
+      <!-- Project Number 2 -->
+    </tr>
+      <tr>
+      <td align="center">2</td>
+      <td>
+        <h2>NextSearch - Scalable Search Engine</h2>
+        <p>A Scalable search engine built with a C++ backend, along with a React/typescript Frontend.
+        </p>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/shahzaibahmad05/NextSearch">NextSearch - Scalable Search Engine</a>
+      </td>
+      <td>
+        <p>
+          <code>C++</code>, <code>React</code>, 
+          <code>TypeScript</code>, <code>TailwindCSS</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Development Phase</b>
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
