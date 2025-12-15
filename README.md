@@ -37,7 +37,7 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 <hr />
 
-Here's a list of some of my Projects:
+Here are some of the Projects I've built on GitHub:
 
 <table>
   <thead>
@@ -93,7 +93,7 @@ Here's a list of some of my Projects:
       <td>
         <p>
           <code>C++</code>, <code>React</code>, 
-          <code>TypeScript</code>, <code>TailwindCSS</code>
+          <code>TypeScript</code>, <code>CSS3</code>
         </p>
       </td>
       <td>
@@ -107,7 +107,7 @@ Here's a list of some of my Projects:
 
 <hr />
 
-Here's a list of useful Tools I created:
+Here are some useful Tools I created:
 
 <table>
   <thead>
