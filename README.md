@@ -124,7 +124,7 @@ Here's a list of useful Tools I created:
       <td>
         <h2>PrintStruct</h2>
         <p>
-          A python CLI script for printing the Structure of your Project in a Visual, easy-to-read format. Works with gitignore files.
+          A python CLI script for printing the Structure of your Project in a Visually easy-to-read format. Works with gitignore files.
         </p>
         <br>
       </td>
