@@ -45,7 +45,7 @@ Here's a list of some of my Projects:
       <th>SNo.</th>
       <th>Project Details</th>
       <th>Repositories</th>
-      <th>Featured</th>
+      <th>Highlights</th>
       <th>Status</th>
     </tr>
   </thead>
