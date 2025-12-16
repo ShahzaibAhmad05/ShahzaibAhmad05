@@ -96,7 +96,7 @@ Here are some of the Projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Pre-release (v0.1.0)</b> Available
+          <b>Pre-release (v0.1.0)</b> Available; Checkout by visiting the Repository
         </p>
       </td>
       <!-- Project Number 2 -->
@@ -155,7 +155,7 @@ Here are some useful Tools I created:
       </td>
       <td>
         <p>
-          <b>Pre-release (v0.1.0)</b> Available; Checkout by Visiting the repository
+          <b>First-Release (v1.0.0)</b> Available; Checkout by Visiting the repository
         </p>
       </td>
       <!-- Project Number 2 -->
