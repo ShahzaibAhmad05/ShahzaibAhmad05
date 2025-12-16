@@ -50,23 +50,21 @@ Here are some of the Projects I've built on GitHub:
     </tr>
   </thead>
   <tbody>
+    <!-- Project number 1 -->
     <tr>
       <td align="center">1</td>
       <td>
-        <h2>IRis X Sketchlogic</h2>
-        <p>An AI-powered Circuit Simulator built to throw your handrawn Logic Circuits into Simulation through Machine Learning along with various Image processing techniques.
+        <h2>Sketchlogic</h2>
+        <p>An AI-powered Circuit Metadata Detector built to throw your handrawn Logic Circuits into Simulation through Machine Learning along with various Image processing techniques.
         </p>
         <br>
       </td>
       <td>
-        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
-        <br><br>
         <a href="https://github.com/ShahzaibAhmad05/SketchLogic">SketchLogic - Circuit Metadata Detector</a>
       </td>
       <td>
         <p>
-          <code>C#</code>, <code>Avalonia</code>, <code>Python</code>, <code>Flask</code>,
-          <code>YOLO</code>, <code>React</code>, <code>TypeScript</code>, <code>TailwindCSS</code>
+          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>, <code>React</code>, <code>TypeScript</code>, <code>TailwindCSS</code>
         </p>
       </td>
       <td>
@@ -77,10 +75,34 @@ Here are some of the Projects I've built on GitHub:
           Backend Live at: <a href="https://sketchlogic.onrender.app/api/health">SketchLogic.onrender.app</a>
         </p>
       </td>
+    </tr>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td align="center">2</td>
+      <td>
+        <h2>IRis</h2>
+        <p>
+          A User-friendly and Minimal Circuit Simulator for logic gates and components built with Avalonia and C#.
+        </p>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
+      </td>
+      <td>
+        <p>
+          <code>C#</code>, <code>Avalonia</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Pre-release (v0.1.0)</b> Available
+        </p>
+      </td>
       <!-- Project Number 2 -->
     </tr>
       <tr>
-      <td align="center">2</td>
+      <td align="center">3</td>
       <td>
         <h2>NextSearch - Scalable Search Engine</h2>
         <p>A Scalable search engine built with a C++ backend, along with a React/typescript Frontend.
