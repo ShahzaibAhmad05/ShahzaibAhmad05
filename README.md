@@ -146,7 +146,7 @@ Here are some useful Tools I created:
       <td>
         <h2>PrintStruct</h2>
         <p>
-          A python CLI tool for printing the Structure of your Project in a Visually easy-to-read format. Works with gitignore files.
+          PrintStruct is a clean, lightweight Python CLI that prints a clean directory tree of your project while respecting .gitignore with optional zipping.
         </p>
         <br>
       </td>
