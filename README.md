@@ -155,7 +155,7 @@ Here are some useful Tools I created:
       </td>
       <td>
         <p>
-          <b>Release (v1.2.3)</b> Published on PyPi; Checkout by using <code>pip install printstruct</code>
+          <b>Published on PyPi;</b> Checkout by using <code>pip install printstruct</code>
         </p>
       </td>
       <!-- Project Number 2 -->
