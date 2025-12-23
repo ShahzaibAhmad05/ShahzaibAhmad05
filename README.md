@@ -146,7 +146,7 @@ Here are some useful Tools I created:
       <td>
         <h2>Gitree</h2>
         <p>
-          A git-aware (but not git-required) project tree printer and zipper for documentation, PRs and LLM workflows.
+          A git-aware CLI tool to provide LLM context for coding projects by combining project files into a single file with a number of different formats to choose from.
         </p>
         <br>
       </td>
