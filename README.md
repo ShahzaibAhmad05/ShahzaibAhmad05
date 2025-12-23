@@ -144,18 +144,18 @@ Here are some useful Tools I created:
     <tr>
       <td align="center">1</td>
       <td>
-        <h2>PrintStruct</h2>
+        <h2>Gitree</h2>
         <p>
-          PrintStruct is a clean, lightweight Python CLI that prints a clean directory tree of your project while respecting .gitignore with optional zipping.
+          A git-aware (but not git-required) project tree printer and zipper for documentation, PRs and LLM workflows.
         </p>
         <br>
       </td>
       <td>
-        <a href="https://github.com/shahzaibahmad05/PrintStruct">PrintStruct</a>
+        <a href="https://github.com/shahzaibahmad05/Gitree">Gitree</a>
       </td>
       <td>
         <p>
-          <b>Published on PyPi;</b> Checkout by using <code>pip install printstruct</code>
+          <b>Published on PyPi;</b> Checkout by using <code>pip install gitree</code>
         </p>
       </td>
       <!-- Project Number 2 -->
