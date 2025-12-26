@@ -69,7 +69,7 @@ Here are some of the Projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Pre-release (v0.1.1)</b> Available (for Download and Live Demo) at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
+          <b>Available for demo</b> at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
         </p>
         <p>
           Backend Live at: <a href="https://sketchlogic.onrender.app/api/health">SketchLogic.onrender.app</a>
@@ -96,7 +96,7 @@ Here are some of the Projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Pre-release (v0.1.0)</b> Available; Checkout by visiting the Repository
+          <b>Available for demo;</b> Checkout by visiting the Repository
         </p>
       </td>
       <!-- Project Number 2 -->
@@ -120,7 +120,7 @@ Here are some of the Projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Development Phase</b>
+          <b>Available for demo at:</b> <a href="https://nextsearch.vercel.app">NextSearch.vercel.app</a>
         </p>
       </td>
     </tr>
