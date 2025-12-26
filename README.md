@@ -144,14 +144,14 @@ Here are some useful Tools I created:
     <tr>
       <td align="center">1</td>
       <td>
-        <h2>Gitree</h2>
+        <h2>gitree</h2>
         <p>
           A git-aware CLI tool to provide LLM context for coding projects by combining project files into a single file with a number of different formats to choose from.
         </p>
         <br>
       </td>
       <td>
-        <a href="https://github.com/shahzaibahmad05/Gitree">Gitree</a>
+        <a href="https://github.com/shahzaibahmad05/gitree">gitree</a>
       </td>
       <td>
         <p>
