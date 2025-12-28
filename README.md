@@ -129,7 +129,7 @@ Here are some of the Projects I've built on GitHub:
 
 <hr />
 
-Here are some useful Tools I created:
+An open-source Tool I created:
 
 <table>
   <thead>
