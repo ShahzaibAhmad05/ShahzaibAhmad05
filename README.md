@@ -157,23 +157,20 @@ An open-source Tool I created:
       <td>
           <!-- stats for gitree -->
         <p align="center">
-          <a href="https://github.com/shahzaibahmad05/gitree/stargazers">
-            <img alt="GitHub stars" src="https://img.shields.io/github/stars/shahzaibahmad05/gitree?logo=github" />
-          </a>
           <a href="https://pypi.org/project/gitree/">
             <img src="https://img.shields.io/pypi/v/gitree?style=flat&logo=pypi&label=PyPI&color=blue" />
           </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/network/members">
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/shahzaibahmad05/gitree?style=flat&color=blue" />
-          </a>
           <a href="https://github.com/shahzaibahmad05/gitree/graphs/contributors">
-            <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/shahzaibahmad05/gitree" />
+            <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/shahzaibahmad05/gitree?label=Contributors" />
           </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/issues">
-            <img alt="Issues Closed" src="https://img.shields.io/github/issues-closed/shahzaibahmad05/gitree?color=orange" />
+          <a href="https://github.com/shahzaibahmad05/gitree/stargazers">
+            <img alt="GitHub stars" src="https://img.shields.io/github/stars/shahzaibahmad05/gitree?logo=github" />
+          </a>
+          <a href="https://github.com/shahzaibahmad05/gitree/network/members">
+            <img alt="GitHub forks" src="https://img.shields.io/github/forks/shahzaibahmad05/gitree?style=flat&color=blue&label=Forks" />
           </a>
           <a href="https://github.com/shahzaibahmad05/gitree/pulls">
-            <img alt="pull requests closed" src="https://img.shields.io/github/issues-pr-closed/shahzaibahmad05/gitree?color=yellow" />
+            <img alt="pull requests closed" src="https://img.shields.io/github/issues-pr-closed/shahzaibahmad05/gitree?color=blue&label=Pull%20Requests" />
           </a>
         </p>
       </td>
