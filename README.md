@@ -37,7 +37,7 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 <hr />
 
-Some of the Projects I've built on GitHub:
+Some projects I've built on GitHub:
 
 <table>
   <thead>
