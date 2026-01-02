@@ -1,4 +1,4 @@
-
+<!--
 <table>
   <tr>
     <td>
@@ -6,7 +6,7 @@
 </td>
   </tr>
 </table>
-
+-->
 ---
 
 Software Engineering undergraduate at **SEECS, NUST**
@@ -37,7 +37,7 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 <hr />
 
-Here are some of the Projects I've built on GitHub:
+Some of the Projects I've built on GitHub:
 
 <table>
   <thead>
