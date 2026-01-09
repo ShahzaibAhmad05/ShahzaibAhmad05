@@ -9,7 +9,11 @@
 -->
 ---
 
-Software Engineering undergraduate at **SEECS, NUST**
+## 👋 Hi there
+
+I'm an undergrad Software Engineer. I have been coding 10 hours a day for about 2 years at this point. I can debug almost any problems, and code about any project (even the one you might be struggling with :)
+
+Have some work for me? Contact me on [fiverr](https://www.fiverr.com/shahzaibahmad05)
 
 
 <!--
@@ -37,7 +41,7 @@ Software Engineering undergraduate at **SEECS, NUST**
 -->
 <hr />
 
-Some projects I've built on GitHub:
+These are some of the projects I've built on GitHub:
 
 <table>
   <thead>
@@ -129,7 +133,7 @@ Some projects I've built on GitHub:
 
 <hr />
 
-An open-source Tool I created:
+An open-source tool I built (trust me, it's useful):
 
 <table>
   <thead>
