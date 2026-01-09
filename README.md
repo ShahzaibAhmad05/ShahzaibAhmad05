@@ -151,7 +151,7 @@ An open-source tool I built (trust me, it's useful):
       <td>
         <h2>gitree</h2>
         <p>
-          A git-aware CLI tool to provide LLM context for coding projects by combining project files into a single file with a number of different formats to choose from.
+          A CLI tool to analyze your codebase and to provide LLM context by dumping your codebase into a single file. Published on PyPi
         </p>
         <br>
       </td>
