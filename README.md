@@ -11,8 +11,8 @@
 
 Software Engineering undergraduate at **SEECS, NUST**
 
----
 
+<!--
 <div align="left">
   
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -34,7 +34,7 @@ Software Engineering undergraduate at **SEECS, NUST**
 
 
 </div>
-
+-->
 <hr />
 
 Some projects I've built on GitHub:
