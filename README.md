@@ -11,7 +11,7 @@
 
 ## 👋 Hi there
 
-I'm an undergrad Software Engineer. I have been coding 10 hours a day for about 2 years at this point. I can debug almost any problems, and code about any project (even the one you might be struggling with :)
+I'm an undergrad Software Engineer. I have been coding 10 hours a day for about 2 years at this point. I can debug almost any problems, and code about any project, even the one you might be struggling with :)
 
 Have some work for me? Contact me on [fiverr](https://www.fiverr.com/shahzaibahmad05)
 
