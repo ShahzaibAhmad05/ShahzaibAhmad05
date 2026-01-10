@@ -75,9 +75,6 @@ These are some of the projects I've built on GitHub:
         <p>
           <b>Available for demo</b> at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
         </p>
-        <p>
-          Backend Live at: <a href="https://sketchlogic.onrender.app/api/health">SketchLogic.onrender.app</a>
-        </p>
       </td>
     </tr>
       <!-- Project number 1.1 -->
