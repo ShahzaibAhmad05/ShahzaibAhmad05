@@ -58,13 +58,13 @@ These are some of the projects I've built on GitHub:
     <tr>
       <td align="center">1</td>
       <td>
-        <h2>Sketchlogic - Circuit Metadata Detector</h2>
+        <h2>Sketchlogic</h2>
         <p>An AI-powered Circuit Metadata Detector built to throw your handrawn Logic Circuits into Simulation through Machine Learning along with various Image processing techniques.
         </p>
         <br>
       </td>
       <td>
-        <a href="https://github.com/ShahzaibAhmad05/SketchLogic">SketchLogic - Circuit Metadata Detector</a>
+        <a href="https://github.com/ShahzaibAhmad05/SketchLogic">SketchLogic - Logic Metadata Detector</a>
       </td>
       <td>
         <p>
@@ -77,35 +77,12 @@ These are some of the projects I've built on GitHub:
         </p>
       </td>
     </tr>
-      <!-- Project number 1.1 -->
-    <tr>
-      <td align="center">2</td>
-      <td>
-        <h2>IRis - Circuit Simulator</h2>
-        <p>
-          A User-friendly and Minimal Circuit Simulator for logic gates and components built with Avalonia and C#.
-        </p>
-        <br>
-      </td>
-      <td>
-        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
-      </td>
-      <td>
-        <p>
-          <code>C#</code>, <code>Avalonia</code>
-        </p>
-      </td>
-      <td>
-        <p>
-          <b>Available for demo;</b> Checkout by visiting the Repository
-        </p>
-      </td>
       <!-- Project Number 2 -->
     </tr>
       <tr>
       <td align="center">3</td>
       <td>
-        <h2>NextSearch - Scalable Search Engine</h2>
+        <h2>NextSearch</h2>
         <p>A Scalable search engine built with a C++ backend, along with a React/typescript Frontend.
         </p>
         <br>
@@ -125,6 +102,29 @@ These are some of the projects I've built on GitHub:
         </p>
       </td>
     </tr>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td align="center">2</td>
+      <td>
+        <h2>IRis</h2>
+        <p>
+          A User-friendly and Minimal Circuit Simulator for logic gates and components built with Avalonia and C#.
+        </p>
+        <br>
+      </td>
+      <td>
+        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
+      </td>
+      <td>
+        <p>
+          <code>C#</code>, <code>Avalonia</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Available for demo;</b> Checkout by visiting the Repository
+        </p>
+      </td>
   </tbody>
 </table>
 
