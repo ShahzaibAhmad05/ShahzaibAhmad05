@@ -169,25 +169,6 @@ These are some of the projects I've built on GitHub:
         </p>
       </td>
     </tr>
-      <!-- Project number 1.1 -->
-    <tr>
-      <td align="center">7</td>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/skelo">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=skelo&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <p>
-          <code>YOLO</code>, <code>Jupyter Notebook</code>, <code>AI/ML</code>
-        </p>
-      </td>
-      <td>
-        <p>
-          <b>Under development</b>
-        </p>
-      </td>
-    </tr>
   </tbody>
 </table>
 
