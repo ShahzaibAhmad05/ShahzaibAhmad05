@@ -111,6 +111,24 @@ These are some of the projects I've built on GitHub:
           <b>Available for demo;</b> Checkout by visiting the Repository
         </p>
       </td>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td align="center">4</td>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/cli-chatapp">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <p>
+          <code>Python</code>, <code>Threading</code>, <code>Socket Programming</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Available for demo;</b> Checkout by visiting the Repository
+        </p>
+      </td>
   </tbody>
 </table>
 
