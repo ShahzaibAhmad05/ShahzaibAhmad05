@@ -47,8 +47,7 @@ These are some of the projects I've built on GitHub:
   <thead>
     <tr>
       <th>SNo.</th>
-      <th>Project Details</th>
-      <th>Repositories</th>
+      <th>Repository</th>
       <th>Highlights</th>
       <th>Status</th>
     </tr>
@@ -57,14 +56,10 @@ These are some of the projects I've built on GitHub:
     <!-- Project number 1 -->
     <tr>
       <td align="center">1</td>
-      <td>
-        <h2>Sketchlogic</h2>
-        <p>An AI-powered Circuit Metadata Detector built to throw your handrawn Logic Circuits into Simulation through Machine Learning along with various Image processing techniques.
-        </p>
-        <br>
-      </td>
-      <td>
-        <a href="https://github.com/ShahzaibAhmad05/SketchLogic">SketchLogic - Logic Metadata Detector</a>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/sketchlogic">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
+        </a>
       </td>
       <td>
         <p>
@@ -80,15 +75,11 @@ These are some of the projects I've built on GitHub:
       <!-- Project Number 2 -->
     </tr>
       <tr>
-      <td align="center">3</td>
-      <td>
-        <h2>NextSearch</h2>
-        <p>A Scalable search engine built with a C++ backend, along with a React/typescript Frontend.
-        </p>
-        <br>
-      </td>
-      <td>
-        <a href="https://github.com/shahzaibahmad05/NextSearch">NextSearch - Scalable Search Engine</a>
+      <td align="center">2</td>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/nextsearch">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark" />
+        </a>
       </td>
       <td>
         <p>
@@ -104,16 +95,11 @@ These are some of the projects I've built on GitHub:
     </tr>
       <!-- Project number 1.1 -->
     <tr>
-      <td align="center">2</td>
-      <td>
-        <h2>IRis</h2>
-        <p>
-          A User-friendly and Minimal Circuit Simulator for logic gates and components built with Avalonia and C#.
-        </p>
-        <br>
-      </td>
-      <td>
-        <a href="https://github.com/d-khalid/IRis">IRis - Circuit Simulator</a>
+      <td align="center">3</td>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/nextsearch">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark" />
+        </a>
       </td>
       <td>
         <p>
@@ -130,7 +116,7 @@ These are some of the projects I've built on GitHub:
 
 <hr />
 
-An open-source tool I built (trust me, it's useful):
+An open-source tool I built (I use it too):
 
 <table>
   <thead>
@@ -145,15 +131,10 @@ An open-source tool I built (trust me, it's useful):
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td>
-        <h2>gitree</h2>
-        <p>
-          A CLI tool to analyze your codebase and to provide LLM context by dumping your codebase into a single file. Published on PyPi
-        </p>
-        <br>
-      </td>
-      <td>
-        <a href="https://github.com/shahzaibahmad05/gitree">gitree</a>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/gitree">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark" />
+        </a>
       </td>
       <td>
           <!-- stats for gitree -->
@@ -163,12 +144,6 @@ An open-source tool I built (trust me, it's useful):
           </a>
           <a href="https://github.com/shahzaibahmad05/gitree/graphs/contributors">
             <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/shahzaibahmad05/gitree?label=Contributors" />
-          </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/stargazers">
-            <img alt="GitHub stars" src="https://img.shields.io/github/stars/shahzaibahmad05/gitree?logo=github" />
-          </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/network/members">
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/shahzaibahmad05/gitree?style=flat&color=blue&label=Forks" />
           </a>
           <a href="https://github.com/shahzaibahmad05/gitree/pulls">
             <img alt="pull requests closed" src="https://img.shields.io/github/issues-pr-closed/shahzaibahmad05/gitree?color=blue&label=Pull%20Requests" />
