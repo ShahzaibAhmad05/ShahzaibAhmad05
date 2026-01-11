@@ -122,7 +122,6 @@ An open-source tool I built (I use it too):
   <thead>
     <tr>
       <th>SNo.</th>
-      <th>Tool Details</th>
       <th>Repository</th>
       <th>Stats</th>
       <th>Status</th>
