@@ -141,12 +141,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>Python</code>, <code>Threading</code>, <code>Socket Programming</code>
+          <code>C#</code>
         </p>
       </td>
       <td>
         <p>
-          <b>Available for demo;</b> Checkout by visiting the Repository
+          <b>Under Development</b>
         </p>
       </td>
     </tr>
