@@ -63,7 +63,7 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>, <code>React</code>, <code>TypeScript</code>, <code>TailwindCSS</code>
+          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
         </p>
       </td>
       <td>
@@ -83,8 +83,7 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>C++</code>, <code>React</code>, 
-          <code>TypeScript</code>, <code>CSS3</code>
+          <code>C++</code>, <code>DSA</code>
         </p>
       </td>
       <td>
