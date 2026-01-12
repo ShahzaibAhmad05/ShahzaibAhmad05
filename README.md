@@ -61,9 +61,13 @@ These are some of the projects I've built on GitHub:
         </a>
       </td>
       <td>
-        <p>
-          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app" target="_blank" rel="noopener noreferrer">NextSearch.vercel.app</a>
-        </p>
+        <a href="https://nextsearch.vercel.app" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/shahzaibahmad05/nextsearch/main/.github/preview.png"
+          alt="NextSearch preview"
+          width="100%"
+        />
+        </a>
       </td>
       <td>
         <p>
