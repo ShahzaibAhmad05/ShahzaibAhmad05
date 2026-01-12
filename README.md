@@ -46,7 +46,6 @@ These are some of the projects I've built on GitHub:
 <table>
   <thead>
     <tr>
-      <th>SNo.</th>
       <th>Repository</th>
       <th>Highlights</th>
       <th>Status</th>
@@ -56,7 +55,6 @@ These are some of the projects I've built on GitHub:
       <!-- Project Number 2 -->
     </tr>
       <tr>
-      <td align="center">1</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/nextsearch">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark" />
@@ -75,7 +73,6 @@ These are some of the projects I've built on GitHub:
     </tr>
       <!-- Project number 1.1 -->
     <tr>
-      <td align="center">2</td>
       <td width="50%">
         <a href="https://github.com/d-khalid/iris">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark" />
@@ -94,7 +91,6 @@ These are some of the projects I've built on GitHub:
     </tr>
     <!-- Project number 1 -->
     <tr>
-      <td align="center">3</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/sketchlogic">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
@@ -113,7 +109,6 @@ These are some of the projects I've built on GitHub:
     </tr>
       <!-- Project number 1.1 -->
     <tr>
-      <td align="center">4</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/cli-chatapp">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark" />
@@ -132,7 +127,6 @@ These are some of the projects I've built on GitHub:
     </tr>
       <!-- Project number 1.1 -->
     <tr>
-      <td align="center">5</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/laptoplane">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark" />
@@ -151,7 +145,6 @@ These are some of the projects I've built on GitHub:
     </tr>
       <!-- Project number 1.1 -->
     <tr>
-      <td align="center">6</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/mdeditor">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=mdeditor&theme=dark" />
@@ -178,7 +171,6 @@ An open-source tool I built (I use it too):
 <table>
   <thead>
     <tr>
-      <th>SNo.</th>
       <th>Repository</th>
       <th>Stats</th>
       <th>Status</th>
@@ -186,7 +178,6 @@ An open-source tool I built (I use it too):
   </thead>
   <tbody>
     <tr>
-      <td align="center">1</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/gitree">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark" />
