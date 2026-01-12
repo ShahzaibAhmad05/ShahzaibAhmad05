@@ -53,29 +53,10 @@ These are some of the projects I've built on GitHub:
     </tr>
   </thead>
   <tbody>
-    <!-- Project number 1 -->
-    <tr>
-      <td align="center">1</td>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/sketchlogic">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <p>
-          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
-        </p>
-      </td>
-      <td>
-        <p>
-          <b>Available for demo</b> at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
-        </p>
-      </td>
-    </tr>
       <!-- Project Number 2 -->
     </tr>
       <tr>
-      <td align="center">2</td>
+      <td align="center">1</td>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/nextsearch">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark" />
@@ -88,7 +69,26 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Available for demo at:</b> <a href="https://nextsearch.vercel.app">NextSearch.vercel.app</a>
+          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app">NextSearch.vercel.app</a>
+        </p>
+      </td>
+    </tr>
+    <!-- Project number 1 -->
+    <tr>
+      <td align="center">2</td>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/sketchlogic">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <p>
+          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
+        </p>
+      </td>
+      <td>
+        <p>
+          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
         </p>
       </td>
     </tr>
@@ -107,7 +107,7 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Available for demo;</b> Checkout by visiting the Repository
+          <b>Demo Available;</b> Checkout by visiting the Repository
         </p>
       </td>
     </tr>
