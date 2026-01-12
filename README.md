@@ -47,8 +47,8 @@ These are some of the projects I've built on GitHub:
   <thead>
     <tr>
       <th>Repository</th>
+      <th>Demo (Click to View)</th>
       <th>Highlights</th>
-      <th>Status</th>
     </tr>
   </thead>
   <tbody>
@@ -62,12 +62,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>C++</code>, <code>DSA</code>
+          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app" target="_blank" rel="noopener noreferrer">NextSearch.vercel.app</a>
         </p>
       </td>
       <td>
         <p>
-          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app" target="_blank" rel="noopener noreferrer">NextSearch.vercel.app</a>
+          <code>C++</code>, <code>DSA</code>
         </p>
       </td>
     </tr>
@@ -80,12 +80,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>C#</code>, <code>Avalonia</code>
+          <b>Demo Available;</b> Checkout by visiting the Repository
         </p>
       </td>
       <td>
         <p>
-          <b>Demo Available;</b> Checkout by visiting the Repository
+          <code>C#</code>, <code>Avalonia</code>
         </p>
       </td>
     </tr>
@@ -98,12 +98,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
+          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app" target="_blank" rel="noopener noreferrer">SketchLogic.vercel.app</a>
         </p>
       </td>
       <td>
         <p>
-          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app" target="_blank" rel="noopener noreferrer">SketchLogic.vercel.app</a>
+          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
         </p>
       </td>
     </tr>
@@ -116,12 +116,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>Python</code>, <code>Threading</code>, <code>Socket Programming</code>
+          <b>Available for demo;</b> Checkout by visiting the Repository
         </p>
       </td>
       <td>
         <p>
-          <b>Available for demo;</b> Checkout by visiting the Repository
+          <code>Python</code>, <code>Threading</code>, <code>Socket Programming</code>
         </p>
       </td>
     </tr>
@@ -134,12 +134,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>Next.js</code>, <code>Typescript</code>, <code>TailwindCSS</code>
+          <b>Under Development</b>
         </p>
       </td>
       <td>
         <p>
-          <b>Under Development</b>
+          <code>Next.js</code>, <code>Typescript</code>, <code>TailwindCSS</code>
         </p>
       </td>
     </tr>
@@ -152,12 +152,12 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <code>C#</code>
+          <b>Under Development</b>
         </p>
       </td>
       <td>
         <p>
-          <b>Under Development</b>
+          <code>C#</code>
         </p>
       </td>
     </tr>
