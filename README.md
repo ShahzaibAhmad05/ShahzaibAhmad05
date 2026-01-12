@@ -69,7 +69,7 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app">NextSearch.vercel.app</a>
+          <b>Demo Available at:</b> <a href="https://nextsearch.vercel.app" target="blank">NextSearch.vercel.app</a>
         </p>
       </td>
     </tr>
@@ -88,7 +88,7 @@ These are some of the projects I've built on GitHub:
       </td>
       <td>
         <p>
-          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app">SketchLogic.vercel.app</a>
+          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app" target="blank">SketchLogic.vercel.app</a>
         </p>
       </td>
     </tr>
