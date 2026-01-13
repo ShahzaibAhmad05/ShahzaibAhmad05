@@ -47,7 +47,7 @@ These are some of the projects I've built on GitHub:
   <thead>
     <tr>
       <th>Repository</th>
-      <th>Demo (Click to View)</th>
+      <th>Live Demo</th>
       <th>Highlights</th>
     </tr>
   </thead>
