@@ -72,7 +72,7 @@ Some of the projects I've built on GitHub:
       </td>
     </tr>
     <!-- Project number 1 -->
-    <tr>
+    <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/sketchlogic">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
@@ -89,7 +89,7 @@ Some of the projects I've built on GitHub:
         />
         </a>
       </td>
-    </tr>
+    </tr> -->
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
