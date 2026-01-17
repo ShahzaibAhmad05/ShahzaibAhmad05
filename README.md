@@ -71,6 +71,25 @@ These are some of the projects I've built on GitHub:
         </a>
       </td>
     </tr>
+    <!-- Project number 1 -->
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/sketchlogic">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
+        </a>
+        <a href="https://github.com/shahzaibahmad05/sketchlogic-web">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic-web&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <a href="https://sketchlogic.vercel.app" target="_blank">
+        <img
+          src="https://github.com/ShahzaibAhmad05/sketchlogic/blob/main/.github/social-preview.jpg?raw=1"
+          alt="SketchLogic preview"
+        />
+        </a>
+      </td>
+    </tr>
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
@@ -81,19 +100,6 @@ These are some of the projects I've built on GitHub:
       <td>
         <p>
           <b>Demo Available;</b> Checkout by visiting the Repository
-        </p>
-      </td>
-    </tr>
-    <!-- Project number 1 -->
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/sketchlogic">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <p>
-          <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app" target="_blank" rel="noopener noreferrer">SketchLogic.vercel.app</a>
         </p>
       </td>
     </tr>
