@@ -41,7 +41,7 @@ Have some work for me? Contact me on [fiverr](https://www.fiverr.com/shahzaibahm
 -->
 <hr />
 
-These are some of the projects I've built on GitHub:
+Some of the projects I've built on GitHub:
 
 <table>
   <thead>
