@@ -59,7 +59,7 @@ These are some of the projects I've built on GitHub:
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark&i=1" />
         </a>
         <a href="https://github.com/shahzaibahmad05/nextsearch-web">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch-web&theme=dark&i=1" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch-web&theme=dark&i=2" />
         </a>
       </td>
       <td>
