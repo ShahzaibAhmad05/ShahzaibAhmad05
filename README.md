@@ -46,9 +46,8 @@ These are some of the projects I've built on GitHub:
 <table>
   <thead>
     <tr>
-      <th>Repository</th>
-      <th>Live Demo</th>
-      <th>Highlights</th>
+      <th>Repositories</th>
+      <th>Live Demo (Click to visit)</th>
     </tr>
   </thead>
   <tbody>
@@ -59,6 +58,9 @@ These are some of the projects I've built on GitHub:
         <a href="https://github.com/shahzaibahmad05/nextsearch">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark&i=1" />
         </a>
+        <a href="https://github.com/shahzaibahmad05/nextsearch-web">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch-web&theme=dark&i=1" />
+        </a>
       </td>
       <td>
         <a href="https://nextsearch.vercel.app" target="_blank">
@@ -67,11 +69,6 @@ These are some of the projects I've built on GitHub:
           alt="NextSearch preview"
         />
         </a>
-      </td>
-      <td>
-        <p>
-          <code>C++</code>, <code>DSA</code>
-        </p>
       </td>
     </tr>
       <!-- Project number 1.1 -->
@@ -84,11 +81,6 @@ These are some of the projects I've built on GitHub:
       <td>
         <p>
           <b>Demo Available;</b> Checkout by visiting the Repository
-        </p>
-      </td>
-      <td>
-        <p>
-          <code>C#</code>, <code>Avalonia</code>
         </p>
       </td>
     </tr>
@@ -104,11 +96,6 @@ These are some of the projects I've built on GitHub:
           <b>Demo Available</b> at: <a href="https://SketchLogic.vercel.app" target="_blank" rel="noopener noreferrer">SketchLogic.vercel.app</a>
         </p>
       </td>
-      <td>
-        <p>
-          <code>Python</code>, <code>Flask</code>, <code>YOLO</code>
-        </p>
-      </td>
     </tr>
       <!-- Project number 1.1 -->
     <tr>
@@ -120,11 +107,6 @@ These are some of the projects I've built on GitHub:
       <td>
         <p>
           <b>Available for demo;</b> Checkout by visiting the Repository
-        </p>
-      </td>
-      <td>
-        <p>
-          <code>Python</code>, <code>Threading</code>, <code>Socket Programming</code>
         </p>
       </td>
     </tr>
@@ -140,11 +122,6 @@ These are some of the projects I've built on GitHub:
           <b>Under Development</b>
         </p>
       </td>
-      <td>
-        <p>
-          <code>Next.js</code>, <code>Typescript</code>, <code>TailwindCSS</code>
-        </p>
-      </td>
     </tr>
       <!-- Project number 1.1 -->
     <tr>
@@ -156,11 +133,6 @@ These are some of the projects I've built on GitHub:
       <td>
         <p>
           <b>Under Development</b>
-        </p>
-      </td>
-      <td>
-        <p>
-          <code>C#</code>
         </p>
       </td>
     </tr>
