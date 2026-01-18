@@ -98,9 +98,12 @@ Some of the projects I've built on GitHub:
         </a>
       </td>
       <td>
-        <p>
-          <b>Demo Available;</b> Checkout by visiting the Repository
-        </p>
+        <a href="https://github.com/d-khalid/iris" target="_blank">
+        <img
+          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
+          alt="IRis preview"
+        />
+        </a>
       </td>
     </tr>
       <!-- Project number 1.1 -->
