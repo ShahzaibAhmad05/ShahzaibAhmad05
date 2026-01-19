@@ -116,8 +116,11 @@ Some of the projects I've built on GitHub:
         </a>
       </td>
       <td>
-        <img src="https://drive.google.com/uc?export=view&id=1vf97o171y5yqfPumLRvqNh4uxROoG4B0" 
-          alt="Chat App Screenshot"/>
+        <a href="https://github.com/shahzaibahmad05/cli-chatapp" target="_blank">
+        <img
+          src="https://github.com/shahzaibahmad05/cli-chatapp/blob/main/.github/social-preview.jpg?raw=1"
+          alt="ChatApp preview"
+        />
       </td>
     </tr>
       <!-- Project number 1.1 -->
