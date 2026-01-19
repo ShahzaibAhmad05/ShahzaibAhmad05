@@ -168,7 +168,7 @@ An open-source tool I built (I use it too):
     <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/gitree">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=1" />
         </a>
       </td>
       <td>
