@@ -96,6 +96,9 @@ Some of the projects I've built on GitHub:
         <a href="https://github.com/d-khalid/iris">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
         </a>
+        <a href="https://github.com/shahzaibahmad05/iris-api">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=2" />
+        </a>
       </td>
       <td>
         <a href="https://github.com/d-khalid/iris" target="_blank">
@@ -103,7 +106,6 @@ Some of the projects I've built on GitHub:
           src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
           alt="IRis preview"
         />
-        </a>
       </td>
     </tr>
       <!-- Project number 1.1 -->
