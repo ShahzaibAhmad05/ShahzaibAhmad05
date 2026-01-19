@@ -116,9 +116,8 @@ Some of the projects I've built on GitHub:
         </a>
       </td>
       <td>
-        <p>
-          <b>Available for demo;</b> Checkout by visiting the Repository
-        </p>
+        <img src="https://drive.google.com/uc?export=view&id=1vf97o171y5yqfPumLRvqNh4uxROoG4B0" 
+          alt="Chat App Screenshot"/>
       </td>
     </tr>
       <!-- Project number 1.1 -->
