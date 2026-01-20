@@ -15,6 +15,8 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 Have some work for me? Contact me on [fiverr](https://www.fiverr.com/shahzaibahmad05)
 
+<img src="./assets/fiverr.svg" width="32" />
+
 
 <!--
 <div align="left">
