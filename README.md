@@ -42,7 +42,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 -->
 <hr />
 
-A list of the projects I've built on GitHub:
+<b>A list of the projects I've built on GitHub:</b>
 
 <table>
   <thead>
