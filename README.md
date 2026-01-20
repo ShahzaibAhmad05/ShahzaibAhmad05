@@ -109,7 +109,7 @@ Some of the projects I've built on GitHub:
       </td>
     </tr>
       <!-- Project number 1.1 -->
-    <tr>
+    <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/cli-chatapp">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark" />
@@ -122,9 +122,9 @@ Some of the projects I've built on GitHub:
           alt="ChatApp preview"
         />
       </td>
-    </tr>
+    </tr> -->
       <!-- Project number 1.1 -->
-    <tr>
+    <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/laptoplane">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark" />
@@ -135,9 +135,9 @@ Some of the projects I've built on GitHub:
           <b>Under Development</b>
         </p>
       </td>
-    </tr>
+    </tr> -->
       <!-- Project number 1.1 -->
-    <tr>
+    <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/mdeditor">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=mdeditor&theme=dark" />
@@ -148,7 +148,7 @@ Some of the projects I've built on GitHub:
           <b>Under Development</b>
         </p>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
