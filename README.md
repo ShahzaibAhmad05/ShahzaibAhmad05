@@ -97,7 +97,7 @@ Some of the projects I've built on GitHub:
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
         </a>
         <a href="https://github.com/shahzaibahmad05/iris-api">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=2" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=3" />
         </a>
       </td>
       <td>
