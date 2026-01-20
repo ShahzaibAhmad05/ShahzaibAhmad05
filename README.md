@@ -13,9 +13,8 @@
 
 I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2 years at this point. I can debug/code almost any project, even the one you might be building right now :)
 
-Have some work for me? Contact me on [fiverr](https://www.fiverr.com/shahzaibahmad05)
 
-<img src="./assets/fiverr.svg" width="32" />
+
 
 
 <!--
@@ -155,50 +154,23 @@ A list of the projects I've built on GitHub:
 </table>
 
 <hr />
+  
 
-An open-source tool I built (I use it too):
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Stats</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/gitree">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=2" />
-        </a>
-      </td>
-      <td>
-          <!-- stats for gitree -->
-        <p align="center">
-          <a href="https://pypi.org/project/gitree/">
-            <img src="https://img.shields.io/pypi/v/gitree?style=flat&logo=pypi&label=PyPI&color=blue" />
-          </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/graphs/contributors">
-            <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/shahzaibahmad05/gitree?label=Contributors" />
-          </a>
-          <a href="https://github.com/shahzaibahmad05/gitree/pulls">
-            <img alt="pull requests closed" src="https://img.shields.io/github/issues-pr-closed/shahzaibahmad05/gitree?color=blue&label=Pull%20Requests" />
-          </a>
-        </p>
-      </td>
-      <!-- Status -->
-      <td>
-        <p>
-          <b>Published on PyPi;</b> Checkout by using <code>pip install gitree</code>
-        </p>
-      </td>
-      <!-- Project Number 2 -->
-  </tbody>
-</table>
 
-<hr>
+<p>
+  <img src="./icons/fiverr.svg" width="44" align="center" />
+  &nbsp;
+  Have some work for me? Contact me on
+  <a href="https://www.fiverr.com/shahzaibahmad05">fiverr</a>
+</p>
+<p>
+  <img src="./icons/portfolio.svg" width="44" align="center" />
+  &nbsp;
+  Checkout my Portfolio Site 
+  <a href="https://shahzaibahmad.vercel.app">here</a>
+</p>
 
-Checkout my Portfolio Site [here](https://shahzaibahmad.vercel.app)
+
 
 
