@@ -110,6 +110,21 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       </td>
     </tr>
       <!-- Project number 1.1 -->
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/gitree">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=1" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shahzaibahmad05/gitree" target="_blank">
+        <img
+          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/default_demo.gif?raw=1"
+          alt="gitree preview"
+        />
+      </td>
+    </tr>
+      <!-- Project number 1.1 -->
     <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/cli-chatapp">
