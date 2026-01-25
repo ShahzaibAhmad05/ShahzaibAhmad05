@@ -131,7 +131,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
     <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/gitree">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=2" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3" />
         </a>
       </td>
       <td>
