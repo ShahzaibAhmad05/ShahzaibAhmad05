@@ -84,7 +84,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       <td>
         <a href="https://nextsearch.vercel.app" target="_blank">
         <img
-          src="https://github.com/ShahzaibAhmad05/NextSearch/blob/main/.github/social-preview.jpg?raw=1"
+          src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1"
           alt="NextSearch preview"
         />
         </a>
