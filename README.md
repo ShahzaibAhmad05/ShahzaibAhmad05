@@ -52,6 +52,24 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
     </tr>
   </thead>
   <tbody>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/d-khalid/iris">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
+        </a>
+        <a href="https://github.com/shahzaibahmad05/iris-api">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=3" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/d-khalid/iris" target="_blank">
+        <img
+          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
+          alt="IRis preview"
+        />
+      </td>
+    </tr>
       <!-- Project Number 2 -->
     </tr>
       <tr>
@@ -91,24 +109,6 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
         </a>
       </td>
     </tr> -->
-      <!-- Project number 1.1 -->
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/d-khalid/iris">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
-        </a>
-        <a href="https://github.com/shahzaibahmad05/iris-api">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=3" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/d-khalid/iris" target="_blank">
-        <img
-          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
-          alt="IRis preview"
-        />
-      </td>
-    </tr>
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
