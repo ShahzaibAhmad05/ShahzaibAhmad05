@@ -113,10 +113,10 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
     <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/LaptopLane">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark&i=1" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark&i=2" />
         </a>
         <a href="https://github.com/shahzaibahmad05/laptoplane-api">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane-api&theme=dark&i=3" />
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane-api&theme=dark&i=4" />
         </a>
       </td>
       <td>
