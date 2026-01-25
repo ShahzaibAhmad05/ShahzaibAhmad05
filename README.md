@@ -137,7 +137,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       <td>
         <a href="https://pypi.org/project/gitree" target="_blank">
         <img
-          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/emoji_hidden.jpg?raw=1&i=5"
+          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/emoji_hidden.jpg?raw=1&i=6"
           alt="gitree preview"
         />
       </td>
