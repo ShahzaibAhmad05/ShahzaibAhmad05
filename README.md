@@ -178,6 +178,6 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
   &nbsp;
   Have some work for me? Contact me on
   <a href="https://www.fiverr.com/shahzaibahmad05">fiverr</a>
-</p>\
+</p>
 
 
