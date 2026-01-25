@@ -112,6 +112,24 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/LaptopLane">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark&i=1" />
+        </a>
+        <a href="https://github.com/shahzaibahmad05/laptoplane-api">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane-api&theme=dark&i=3" />
+        </a>
+      </td>
+      <td>
+        <!-- <a href="https://github.com/d-khalid/iris" target="_blank">
+        <img
+          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
+          alt="IRis preview"
+        /> -->Under Development
+      </td>
+    </tr>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td width="50%">
         <a href="https://github.com/shahzaibahmad05/gitree">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=2" />
         </a>
