@@ -120,11 +120,11 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
         </a>
       </td>
       <td>
-        <!-- <a href="https://github.com/d-khalid/iris" target="_blank">
+        <a href="https://github.com/shahzaibahmad05/laptoplane" target="_blank">
         <img
-          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
-          alt="IRis preview"
-        /> -->Under Development
+          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/previews/laptoplane.jpg?raw=1"
+          alt="laptoplane preview"
+        />
       </td>
     </tr>
       <!-- Project number 1.1 -->
