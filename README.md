@@ -110,7 +110,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       </td>
     </tr> -->
       <!-- Project number 1.1 -->
-    <tr>
+    <!-- <tr>
       <td width="50%">
         <a href="https://github.com/shahzaibahmad05/LaptopLane">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark&i=2" />
@@ -126,7 +126,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
           alt="laptoplane preview"
         />
       </td>
-    </tr>
+    </tr> -->
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
