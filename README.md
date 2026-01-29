@@ -40,6 +40,9 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 </div>
 -->
+
+![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
+
 <hr />
 
 <b>A list of the projects I've built on GitHub:</b>
