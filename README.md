@@ -58,6 +58,21 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
       <!-- Project number 1.1 -->
     <tr>
       <td width="50%">
+        <a href="https://github.com/shahzaibahmad05/gitree">
+          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3" />
+        </a>
+      </td>
+      <td>
+        <a href="https://pypi.org/project/gitree" target="_blank">
+        <img
+          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/emoji_hidden.jpg?raw=1&i=6"
+          alt="gitree preview"
+        />
+      </td>
+    </tr>
+      <!-- Project number 1.1 -->
+    <tr>
+      <td width="50%">
         <a href="https://github.com/d-khalid/iris">
           <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
         </a>
@@ -130,21 +145,6 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
         />
       </td>
     </tr> -->
-      <!-- Project number 1.1 -->
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/gitree">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3" />
-        </a>
-      </td>
-      <td>
-        <a href="https://pypi.org/project/gitree" target="_blank">
-        <img
-          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/emoji_hidden.jpg?raw=1&i=6"
-          alt="gitree preview"
-        />
-      </td>
-    </tr>
       <!-- Project number 1.1 -->
     <!-- <tr>
       <td width="50%">
