@@ -75,12 +75,12 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 
 
-<p>
+<!-- <p>
   <img src="./icons/linkedin.svg" width="44" align="center" />
   &nbsp;
   Want to network or chat? Contact me on 
   <a href="https://www.linkedin.com/in/shahzaibahmad05">LinkedIn</a>
-</p>
+</p> -->
 <p>
   <img src="./icons/fiverr.svg" width="44" align="center" />
   &nbsp;
