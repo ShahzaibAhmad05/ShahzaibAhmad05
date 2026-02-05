@@ -45,155 +45,32 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 <hr />
 
-<b>A list of the projects I've built on GitHub:</b>
+**Projects? yeah, I've built a few:**
 
-<table>
-  <thead>
-    <tr>
-      <th>Repositories</th>
-      <th>Live Demo (Click to visit)</th>
-    </tr>
-  </thead>
-  <tbody>
-      <!-- Project number 1.1 -->
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/gitree">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3" />
-        </a>
-      </td>
-      <td>
-        <a href="https://pypi.org/project/gitree" target="_blank">
-        <img
-          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/gallery/gitree/emoji_hidden.jpg?raw=1&i=6"
-          alt="gitree preview"
-        />
-      </td>
-    </tr>
-      <!-- Project number 1.1 -->
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/d-khalid/iris">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=dark&i=1" />
-        </a>
-        <a href="https://github.com/shahzaibahmad05/iris-api">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=iris-api&theme=dark&i=3" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/d-khalid/iris" target="_blank">
-        <img
-          src="https://github.com/d-khalid/iris/blob/main/.github/social-preview.jpg?raw=1"
-          alt="IRis preview"
-        />
-      </td>
-    </tr>
-      <!-- Project Number 2 -->
-    </tr>
-      <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/nextsearch">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch&theme=dark&i=1" />
-        </a>
-        <a href="https://github.com/shahzaibahmad05/nextsearch-web">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=nextsearch-web&theme=dark&i=2" />
-        </a>
-      </td>
-      <td>
-        <a href="https://nextsearch.vercel.app" target="_blank">
-        <img
-          src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1"
-          alt="NextSearch preview"
-        />
-        </a>
-      </td>
-    </tr>
-    <!-- Project number 1 -->
-    <!-- <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/sketchlogic">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic&theme=dark" />
-        </a>
-        <a href="https://github.com/shahzaibahmad05/sketchlogic-web">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=sketchlogic-web&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <a href="https://sketchlogic.vercel.app" target="_blank">
-        <img
-          src="https://github.com/ShahzaibAhmad05/sketchlogic/blob/main/.github/social-preview.jpg?raw=1"
-          alt="SketchLogic preview"
-        />
-        </a>
-      </td>
-    </tr> -->
-      <!-- Project number 1.1 -->
-    <!-- <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/LaptopLane">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark&i=2" />
-        </a>
-        <a href="https://github.com/shahzaibahmad05/laptoplane-api">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane-api&theme=dark&i=4" />
-        </a>
-      </td>
-      <td>
-        <a href="https://laptoplane.vercel.app" target="_blank">
-        <img
-          src="https://github.com/shahzaibahmad05/shahzaibahmad05/blob/main/previews/laptoplane.jpg?raw=1"
-          alt="laptoplane preview"
-        />
-      </td>
-    </tr> -->
-      <!-- Project number 1.1 -->
-    <!-- <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/cli-chatapp">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shahzaibahmad05/cli-chatapp" target="_blank">
-        <img
-          src="https://github.com/shahzaibahmad05/cli-chatapp/blob/main/.github/social-preview.jpg?raw=1"
-          alt="ChatApp preview"
-        />
-      </td>
-    </tr> -->
-      <!-- Project number 1.1 -->
-    <!-- <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/laptoplane">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=laptoplane&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <p>
-          <b>Under Development</b>
-        </p>
-      </td>
-    </tr> -->
-      <!-- Project number 1.1 -->
-    <!-- <tr>
-      <td width="50%">
-        <a href="https://github.com/shahzaibahmad05/mdeditor">
-          <img width="100%" src="https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=mdeditor&theme=dark" />
-        </a>
-      </td>
-      <td>
-        <p>
-          <b>Under Development</b>
-        </p>
-      </td>
-    </tr> -->
-  </tbody>
-</table>
+## Open Source
 
-<hr />
+![gitree repository card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3)
+
+## Proof-of-Concept
+
+#### Search Engine
+
+<img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
+
+
+
+---
+
   
 
 
 
+<p>
+  <img src="./icons/linkedin.svg" width="44" align="center" />
+  &nbsp;
+  Want to network or chat? Contact me on 
+  <a href="https://www.linkedin.com/in/shahzaibahmad05">LinkedIn</a>
+</p>
 <p>
   <img src="./icons/fiverr.svg" width="44" align="center" />
   &nbsp;
