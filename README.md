@@ -57,7 +57,17 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
 
+#### Academic
 
+![dsa lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=dsa-lab&theme=dark&i=3)
+![dbs lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=dbs-lab&theme=dark&i=3)
+![oop lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=oop-lab&theme=dark&i=3)
+![shell scripting lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=shell-scripting-lab&theme=dark&i=1)
+
+#### Assignment-level
+
+![cli chatapp card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark&i=3)
+![md-to-html-converter card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=md-to-html-converter&theme=dark&i=3)
 
 ---
 
