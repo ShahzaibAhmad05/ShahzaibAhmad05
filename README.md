@@ -59,19 +59,12 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
 </a>
 
-#### Academic
-
-[![dsa lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=dsa-lab&theme=dark&i=3)](https://github.com/shahzaibahmad05/dsa-lab)
-
-[![shell scripting lab card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=shell-scripting-lab&theme=dark&i=1)](https://github.com/shahzaibahmad05/shell-scripting-lab)
-
-#### Assignment-level
-
-[![cli chatapp card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=cli-chatapp&theme=dark&i=3)](https://github.com/shahzaibahmad05/cli-chatapp)
-
-[![md-to-html-converter card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=md-to-html-converter&theme=dark&i=3)](https://github.com/shahzaibahmad05/md-to-html-converter)
 
 ---
+
+Checkout my other repositories [here](https://github.com/ShahzaibAhmad05?tab=repositories)
+
+
 
   
 
@@ -83,11 +76,11 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
   Want to network or chat? Contact me on 
   <a href="https://www.linkedin.com/in/shahzaibahmad05">LinkedIn</a>
 </p> -->
-<p>
+<!-- <p>
   <img src="./icons/fiverr.svg" width="44" align="center" />
   &nbsp;
   Have some work for me? Contact me on
   <a href="https://www.fiverr.com/shahzaibahmad05">fiverr</a>
-</p>
+</p> -->
 
 
