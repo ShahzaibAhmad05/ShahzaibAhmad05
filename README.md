@@ -45,7 +45,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 <hr />
 
-**Projects?**
+**My Projects?**
 
 ## Open Source
 
