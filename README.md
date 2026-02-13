@@ -62,7 +62,7 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for about 2
 
 ---
 
-Checkout my other repositories [here](https://github.com/ShahzaibAhmad05?tab=repositories)
+Checkout my public repositories [here](https://github.com/ShahzaibAhmad05?tab=repositories)
 
 
 <p>
