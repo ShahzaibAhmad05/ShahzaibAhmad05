@@ -45,15 +45,15 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for over 2 
 
 <hr />
 
-**My Projects?**
+## My Projects
 
-## Open Source
+### Open Source
 
 [![gitree repository card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3)](https://github.com/shahzaibahmad05/gitree)
 
-## Proof-of-Concept
+### Proof-of-Concept
 
-#### Search Engine
+#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://nextsearch.vercel.app) ]
 
 <a href="https://nextsearch.vercel.app/">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
