@@ -59,6 +59,11 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for over 2 
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
 </a>
 
+#### Circuit Simulator -> [ [frontend](https://github.com/d-khalid/iris) | [backend](https://github.com/shahzaibahmad05/iris-api) ]
+
+<a href="https://nextsearch.vercel.app/">
+  <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
+</a>
 
 ---
 
