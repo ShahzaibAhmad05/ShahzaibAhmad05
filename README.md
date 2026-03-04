@@ -11,9 +11,24 @@
  
 ## 👋 Hi there
 
-I'm an undergrad Software Engineer. I have been coding 6 hours a day for over 2 years at this point (well before I started using GitHub) and can code/debug almost any project, even the one you might be building right now :)
+
+> I'm an undergrad Software Engineer. I have been coding 6 hours a day for over 2 years at this point (well before I started using GitHub) and can code/debug almost any project, even the one you might be building right now :)
 
 
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/shahzaibahmad05">
+      <img src="./icons/linkedin.svg" width="44" align="center" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.fiverr.com/shahzaibahmad05">
+      <img src="./icons/fiverr.svg" width="44" align="center" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -69,16 +84,6 @@ I'm an undergrad Software Engineer. I have been coding 6 hours a day for over 2 
 
 Checkout my public repositories [here](https://github.com/ShahzaibAhmad05?tab=repositories)
 
-
-<p>
-  <a href="https://www.linkedin.com/in/shahzaibahmad05">
-  <img src="./icons/linkedin.svg" width="44" align="center" />
-  </a>
-  &nbsp;
-  <a href="https://www.fiverr.com/shahzaibahmad05">
-  <img src="./icons/fiverr.svg" width="44" align="center" />
-  </a>
-</p>
 
 
 
