@@ -68,7 +68,7 @@
 
 ### Proof-of-Concept
 
-#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://nextsearch.vercel.app) ]
+#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [development](https://github.com/users/ShahzaibAhmad05/projects/4) | [demo](https://nextsearch.vercel.app) ]
 
 <a href="https://nextsearch.vercel.app/">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
