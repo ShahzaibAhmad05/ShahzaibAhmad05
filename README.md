@@ -4,7 +4,7 @@
     <td>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-1105.vercel.app/api?username=ShahzaibAhmad05&show_icons=true&include_all_commits=false&theme=github_dark&hide_border=true" alt="Shahzaib's github stats" /></a>
 </td>
-  </tr>
+  </tr> 
 </table>
 -->
 
