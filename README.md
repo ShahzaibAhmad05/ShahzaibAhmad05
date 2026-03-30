@@ -12,7 +12,7 @@
 ## 👋 Hi there
 
 
-> I'm an undergrad Software Engineer. I have been coding an average of 6 hours a day for over 2 years at this point (well before I started using GitHub) and can code/debug almost any project, even the one you might be building right now :)
+> I'm an undergrad Software Engineer. I have been coding an average of 6 hours a day for over 2 years at this point and I can code/debug any project, even the one you might be building right now :)
  
 
 <table>
