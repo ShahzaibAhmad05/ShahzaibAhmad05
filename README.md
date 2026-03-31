@@ -64,17 +64,25 @@
 
 ### Open Source
 
+> This one bellow represents the peak of my interest in python X CLI tools
+
 [![gitree repository card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3)](https://github.com/shahzaibahmad05/gitree)
 
 ### Proof-of-Concept
 
 #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [kanban board](https://github.com/users/ShahzaibAhmad05/projects/4) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
+> A webpage that started with a few C++ files. This really had me visit the extremes for performance and memory optimization, and later I ended up adding quite a few interesting features that a search engine should ideally have
+
 <a href="https://www.youtube.com/watch?v=tvpunJ4zmCg">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
 </a>
 
 #### Circuit Simulator -> [ [frontend](https://github.com/d-khalid/iris) | [backend](https://github.com/shahzaibahmad05/iris-api) ]
+
+> Starting as a semester project, this one lead me deep into computer vision for the purpose of automating a task still no LLM can do today. For this project, I put together a medium-sized dataset of images and trained a YOLO model on it
+>
+> After that I tied it with python scripts that put together a logic circuit into simulation from the roughest of drawings. The dataset is still published on Kaggle and fully open-source. Curious? check it out yourself
 
 <a href="https://github.com/d-khalid/iris">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
