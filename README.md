@@ -112,7 +112,12 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 ## Professional Experience
 
-> will put it here soon
+```mermaid
+timeline
+    July 2025 - Present : Freelancing at Fiverr
+    Oct 2025 - Present : Hired on Project basis at AgriStreams
+    Feb 2026 - Present : Intern at Codexon Solutions
+```
 
 ---
 
