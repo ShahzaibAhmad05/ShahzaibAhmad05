@@ -114,7 +114,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 ```mermaid
 timeline
-    July 2025 - Present : Freelancing at Fiverr
+    July 2025 - Present (~1 Year) : Freelancing at Fiverr
     Oct 2025 - Present : Hired on Project basis at AgriStreams
     Feb 2026 - Present : Intern at Codexon Solutions
 ```
