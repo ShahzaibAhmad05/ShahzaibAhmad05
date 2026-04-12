@@ -96,7 +96,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 ---
 
 <details>
-  <summary>Full Repositories List (CLICK TO EXPAND!)</summary>
+  <summary>Full Repositories List <code>CLICK TO EXPAND!</code></summary>
   <br />
   <blockquote>This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.</blockquote>
   <blockquote>This is so obviously not the full list, but be patient, I'm adding stuff here slowly.</blockquote>
