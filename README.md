@@ -100,7 +100,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 > This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.
 >
-> Currently, it is so obviously not the full list, but be patient, I'm adding stuff here slowly.
+> Currently, it is obviously not the full list, but be patient, I'm adding stuff here slowly.
 
 <details>
   <summary>python</summary>
@@ -111,6 +111,9 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <br />
     <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
+    <br />
+    <br />
+    <a href="https://github.com/ShahzaibAhmad05/pyinstaller">pyinstaller (GUI wrapper for the original one)</a>
     <br />
     <br />
   </details>
@@ -125,7 +128,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 ---
 
-## Professional Experience
+## Professional Journey
 
 ```mermaid
 timeline
