@@ -109,8 +109,8 @@ Started working on this [SaaS MVP](https://antiform.app) recently
       <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
       <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
       <br />
-    </details>
       <br />
+    </details>
     <details>
       <summary>others</summary>
       <br />
