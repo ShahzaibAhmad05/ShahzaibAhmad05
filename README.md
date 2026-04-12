@@ -96,17 +96,24 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 <details>
   <summary>Full Repositories List (by tech stack)</summary>
-  <!-- <details>
-    <summary>Python (PyQt, Flask, ML)</summary>
-    <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (CLI-tool)</a>
-    <a href="https://github.com/ShahzaibAhmad05/iris-api">Circuit Simulator API</a>
-    <a href="https://github.com/ShahzaibAhmad05/pyautomate">Desktop Automation Tool</a>
-    <a href="https://github.com/ShahzaibAhmad05/cli-chatapp">ChatApp (CLI-based for now)</a>
-    <a href="https://github.com/ShahzaibAhmad05/veranode-api">Tweet System API</a>
-    <a href="https://github.com/ShahzaibAhmad05/python">practice projects</a>
-  </details> -->
   <br />
-  Will add stuff here soon
+  <blockquote>This so obviously isnt the full list, but be patient, I'm adding stuff here slowly.</blockquote>
+  <details>
+    <summary>python</summary>
+    <br />
+    <details>
+      <summary>pyqt6</summary>
+      <br />
+      <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (with a perfect architecture)</a>
+      <br />
+    </details>
+    <details>
+      <summary>others</summary>
+      <br />
+      <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool)</a>
+    </details>
+  </details>
+  <br />
 </details>
 
 ---
