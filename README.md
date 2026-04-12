@@ -95,7 +95,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 
 <details>
-  <summary>Full projects list (click to expand)</summary>
+  <summary>Full Repositories List (by tech stack)</summary>
   <!-- <details>
     <summary>Python (PyQt, Flask, ML)</summary>
     <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (CLI-tool)</a>
@@ -105,6 +105,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <a href="https://github.com/ShahzaibAhmad05/veranode-api">Tweet System API</a>
     <a href="https://github.com/ShahzaibAhmad05/python">practice projects</a>
   </details> -->
+  <br />
   Will add stuff here soon
 </details>
 
