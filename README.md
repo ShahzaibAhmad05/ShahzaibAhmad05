@@ -12,7 +12,7 @@
 ## Here to Stalk?! Sure.
 
 
-> I'm an undergrad Software Engineer. I have been coding an average of 6 hours a day for over 2 years at this point. I can code any project, even the one you are building right now :)
+> I'm an undergrad Software Engineer, currently in my 4th semester. I have been coding an average of 6 hours a day for over 2 years at this point. I can code any project, even the one you are building right now :)
  
 
 <table>
