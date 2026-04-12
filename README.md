@@ -96,9 +96,10 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 ---
 
 <details>
-  <summary>Full Repositories List (by tech stack)</summary>
+  <summary>Full Repositories List (CLICK TO EXPAND!)</summary>
   <br />
-  <blockquote>This so obviously isnt the full list, but be patient, I'm adding stuff here slowly.</blockquote>
+  <blockquote>This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.</blockquote>
+  <blockquote>This is so obviously not the full list, but be patient, I'm adding stuff here slowly.</blockquote>
   <details>
     <summary>python</summary>
     <br />
@@ -114,6 +115,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <details>
       <summary>others</summary>
       <br />
+      <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
       <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool. How useful is it? well, I use it regularly)</a>
     </details>
   </details>
