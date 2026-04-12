@@ -102,16 +102,19 @@ Started working on this [SaaS MVP](https://antiform.app) recently
   <details>
     <summary>python</summary>
     <br />
+    <blockquote>This is the language I like the most, and so, I have typed it the most.</blockquote>
     <details>
-      <summary>pyqt6</summary>
+      <summary>pyqt</summary>
       <br />
-      <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (with a perfect architecture)</a>
+      <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
+      <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
       <br />
     </details>
+      <br />
     <details>
       <summary>others</summary>
       <br />
-      <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool)</a>
+      <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool. How useful is it? well, I use it regularly)</a>
     </details>
   </details>
   <br />
