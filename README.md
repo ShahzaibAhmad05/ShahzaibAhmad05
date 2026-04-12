@@ -95,29 +95,30 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 
 ---
 
+
+## Full Repositories List
+
+> This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.
+>
+> Currently, it is so obviously not the full list, but be patient, I'm adding stuff here slowly.
+
 <details>
-  <summary>Full Repositories List <code>CLICK TO EXPAND!</code></summary>
+  <summary>python</summary>
   <br />
-  <blockquote>This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.</blockquote>
-  <blockquote>This is so obviously not the full list, but be patient, I'm adding stuff here slowly.</blockquote>
+  <blockquote>This is the language I like the most, and so, I have typed it the most.</blockquote>
   <details>
-    <summary>python</summary>
+    <summary>pyqt</summary>
     <br />
-    <blockquote>This is the language I like the most, and so, I have typed it the most.</blockquote>
-    <details>
-      <summary>pyqt</summary>
-      <br />
-      <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
-      <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
-      <br />
-      <br />
-    </details>
-    <details>
-      <summary>others</summary>
-      <br />
-      <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
-      <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool. How useful is it? well, I use it regularly)</a>
-    </details>
+    <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
+    <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
+    <br />
+    <br />
+  </details>
+  <details>
+    <summary>others</summary>
+    <br />
+    <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
+    <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool. How useful is it? well, I use it regularly)</a>
   </details>
   <br />
 </details>
