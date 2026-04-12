@@ -103,25 +103,24 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 > Currently, it is obviously not the full list, but be patient, I'm adding stuff here slowly.
 
 <details>
-  <summary>python</summary>
+  <summary><code>python</code></summary>
   <br />
   <blockquote>This is the language I like the most, and so, I have typed it the most.</blockquote>
   <details>
-    <summary>pyqt</summary>
+    <summary><code>pyqt</code></summary>
     <br />
     <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
-    <a href="https://github.com/ShahzaibAhmad05/Calculator">calculator (but with a perfect architecture)</a>
+    <a href="https://github.com/ShahzaibAhmad05/Calculator"><code>calculator (but with a perfect architecture)</code></a>
     <br />
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/pyinstaller">pyinstaller (GUI wrapper for the original one)</a>
+    <a href="https://github.com/ShahzaibAhmad05/pyinstaller"><code>pyinstaller (GUI wrapper for the original one)</code></a>
     <br />
     <br />
   </details>
   <details>
-    <summary>others</summary>
+    <summary><code>others</code></summary>
     <br />
     <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
-    <a href="https://github.com/ShahzaibAhmad05/gitree">gitree (it's a cli-tool. How useful is it? well, I use it regularly)</a>
+    <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool. How useful is it? well, I use it regularly)</code></a>
   </details>
 </details>
 <br />
