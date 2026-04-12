@@ -96,7 +96,7 @@ Started working on this [SaaS MVP](https://antiform.app) recently
 ---
 
 
-## Full Repositories List
+## Public Repositories List
 
 > This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.
 >
