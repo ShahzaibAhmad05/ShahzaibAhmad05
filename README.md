@@ -136,10 +136,6 @@ timeline
     Feb 2026 - Present : Intern at Codexon Solutions
 ```
 
----
-
-Checkout my public repositories [here](https://github.com/ShahzaibAhmad05?tab=repositories)
-
 
 
 
