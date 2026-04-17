@@ -117,6 +117,14 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <br />
   </details>
   <details>
+    <summary><code>tesseract</code></summary>
+    <br />
+    <blockquote>It's free and open source. Perfect for screen scanning.</blockquote>
+    <a href="https://github.com/ShahzaibAhmad05/seb-overlay"><code>A complete patch for safe browser using OCR (educational purposes only ;)</code></a>
+    <br />
+    <br />
+  </details>
+  <details>
     <summary><code>others</code></summary>
     <br />
     <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
