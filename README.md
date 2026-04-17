@@ -140,6 +140,23 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool. How useful is it? well, I use it regularly)</code></a>
   </details>
+  <br />
+</details>
+<details>
+  <summary><code>C++</code></summary>
+  <br />
+  <blockquote>I don't see any difference in speed compared to python if both are optimized. But explicit types are kind of useful for readability.</blockquote>
+  <details>
+    <summary><code>others</code></summary>
+    <br />
+    <blockquote>No major libraries/frameworks here.</blockquote>
+    <a href="https://github.com/ShahzaibAhmad05/DSA"><code>DSA stuff. Well-known and self-proclaimed Algorithms and some Leetcode problems.</code></a>
+  </details>
+  <br />
+</details>
+<details>
+  <summary><code>C</code></summary>
+  
 </details>
 <br />
 
