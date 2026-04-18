@@ -151,6 +151,8 @@ Started working on this [SaaS MVP](https://antiform.app) recently
     <br />
     <blockquote>No major libraries/frameworks here.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/DSA"><code>DSA stuff. Well-known and self-proclaimed Algorithms and some Leetcode problems.</code></a>
+    <br />
+    <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
   </details>
   <br />
 </details>
