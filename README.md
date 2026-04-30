@@ -74,7 +74,7 @@
 
 > My first commercially launched project. Currently in rigorous development.
 
-<a href="https://antiform.com">
+<a href="https://antiform.app">
   <img src="https://lh3.googleusercontent.com/d/1fmnsWHGXZa0BAAl_sYFflm31rm558T4q" width="600" />
 </a>
 
@@ -100,8 +100,6 @@
 
 <br />
 <br />
-
-Started working on this [SaaS MVP](https://antiform.app) recently 
 
 ---
 
