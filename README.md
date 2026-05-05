@@ -118,7 +118,7 @@
     <summary><code>pyqt</code></summary>
     <br />
     <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
-    <a href="https://github.com/ShahzaibAhmad05/Calculator"><code>calculator (but with a perfect architecture)</code></a>
+    <a href="https://github.com/ShahzaibAhmad05/Calculator"><code>over-engineered calculator</code></a>
     <br />
     <a href="https://github.com/ShahzaibAhmad05/pyinstaller"><code>pyinstaller (GUI wrapper for the original one)</code></a>
     <br />
