@@ -106,7 +106,7 @@
 
 ## Public Repositories List
 
-> This is a list of my repositories grouped by respective tech stacks. Each one is my masterpiece.
+> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me. None of the bits are vibe-coded.
 >
 > Currently, it is obviously not the full list, but be patient, I'm adding stuff here slowly.
 
@@ -137,6 +137,18 @@
     <br />
     <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool I created and I use it regularly)</code></a>
+  </details>
+  <br />
+</details>
+<details>
+  <summary><code>Typescript</code></summary>
+  <br />
+  <blockquote>Interesting syntax. But that doesn't mean I like javascript.</blockquote>
+  <details>
+    <summary><code>Nextjs & Tailwind</code></summary>
+    <br />
+    <blockquote>I usually use this tech stack for web development.</blockquote>
+    <a href="https://github.com/ShahzaibAhmad05/DSA"><code>finance tracker</code></a>
   </details>
   <br />
 </details>
