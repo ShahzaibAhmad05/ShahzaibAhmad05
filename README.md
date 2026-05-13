@@ -68,16 +68,6 @@
 
 [![gitree repository card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3)](https://github.com/shahzaibahmad05/gitree)
 
-### Commercially Published 
-
-#### Antiform [ [live website](https://antiform.com) | [published extension]() ]
-
-> My first commercially launched project. Currently in rigorous development.
-
-<a href="https://antiform.app">
-  <img src="https://lh3.googleusercontent.com/d/1fmnsWHGXZa0BAAl_sYFflm31rm558T4q" width="600" />
-</a>
-
 ### Proof-of-Concept
 
 #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [kanban board](https://github.com/users/ShahzaibAhmad05/projects/4) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
