@@ -170,7 +170,7 @@
 timeline
     July 2025 - Present (~1 Year) : Freelancing at Fiverr
     Oct 2025 - Present : Hired on Project basis at AgriStreams
-    Feb 2026 - Present : Intern at Codexon Solutions
+    March 2026 - April 2026 : MERN Stack Intern at Codexon Solutions
 ```
 
 
