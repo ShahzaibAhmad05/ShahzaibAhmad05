@@ -70,7 +70,7 @@
 
 ### Proof-of-Concept
 
-#### Circuit Simulator -> [ [frontend](https://github.com/d-khalid/iris) | [backend](https://github.com/shahzaibahmad05/iris-api) ]
+#### Circuit Simulator -> [ [app](https://github.com/d-khalid/iris) ]
 
 > Starting as a semester project, this one lead me deep into computer vision for the purpose of automating a task still no LLM can do today. For this project, I put together a medium-sized dataset of images and trained a YOLO model on it
 >
