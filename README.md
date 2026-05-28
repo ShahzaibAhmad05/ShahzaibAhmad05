@@ -9,11 +9,33 @@
 --> 
 
  
-## Here to Stalk?! Sure.
+## CareEnough ? Read() : ScrollBy();
 
 
-> I'm an undergrad Software Engineer, currently in my 4th semester. I have been coding an average of 6 hours a day for over 2 years at this point. I can code any project, even the one you are building right now :)
- 
+> I'm an undergrad Software Engineer, recently completed my 4th semester. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
+> 
+> Fair to say I haven't found anyone like me yet.
+>
+> I started out in 2023 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. This curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that went out of context soon.
+>
+> Soon I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering (AI was there back then, I hadn't used it though). First semester was rough, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
+>
+> I casually again spent 3 months (about half-a-semester) building a unique python desktop app with absolutely nothing in exchange. The app is still [here](https://github.com/ShahzaibAhmad05/PyAutoMate) on GitHub (caps because I like GitHub and live on it now). I felt accomplished after finishing it. It was a floating icon with nice animations that you could add scripts on (in the language I defined there ofcourse) and those scripts then each bind to a button and a shortcut key.
+>
+> At the near-end of that semester (start of 2025 as far as I remember) I met [this](https://github.com/d-khalid) person. He was magic (truly). For our semester project which I was thinking of asking ChatGPT to do, he pulled off [this](https://github.com/d-khalid/IRis) project. It was truly way above my level of understanding. I could hardly contribute before the project deadline went by.
+>
+> I had always known I had much to learn. After this I went to try out ML. Vibe-coding was at peak (or so I thought through wishful thinking) so I used my crap prompting skills to get a YOLO-model to work with identifying objects in Handdrawn logic circuits (wow I trained a model but don't know how I did it, such is the result of vibe-coding I suppose).
+>
+> The next Summer I spent building my social media presence (by this I mean LinkedIn and GitHub ofcourse, cuz Instagram is cringe). 3rd and 4th semesters were full of learning (2025-early 2026). I again casually spent a lot of time building [this](https://github.com/ShahzaibAhmad05/gitree) to sharpen my python skills and maybe get something acceptable open-source and was still somehow okay with getting nothing in exchange. I also built this [search engine](https://github.com/ShahzaibAhmad05/NextSearch-web), but the UI had to be vibe coded cuz of tight deadlines. (I was a sloth and couldn't put up a few flex-boxes myself)
+>
+> Anyways this was when I learned `React.js`, `Next.js`, `TypeScript` and `TailwindCSS` and all the other web tech keywords, etc. I was able to type out basic web pages in a day after my practice with [this](https://github.com/ShahzaibAhmad05/FinTrack). This was made during my 4th semester when I abandoned vibe-coding and IDE-integrated LLMs (I still use them in general to crawl docs that are too long to read).
+>
+> At the end of my 4th semester, and hence, now, I feel like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline (I mean I don't need to vibe-code at all now). I can build/rebuild about anything with enough context and some Claude discussions. In fact, I now dislike vibe-coding, (it isn't even remotely a threat to real software engineers) because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality, it pisses me off seeing it.
+>
+> And that's it, that is my intro. I lowkey wish I could give a full introduction like this in interviews but oh well. Anyways, summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse). I have learned to survive semesters by multi-tasking (and as a side effect now I can do multiple projects in different languages at the same time without breaking a sweat).
+>
+> If you are wondering why I typed so much here, I would say it isn't even a paragraph compared to the amount of documentation I consume everyday now (trust). I am currently working on rebuilding [this](https://github.com/d-khalid/IRis) project during eid holidays (im ergophilic as I mentioned).
+
 
 <table>
   <tr>
@@ -64,7 +86,7 @@
 
 #### Circuit Simulator -> [ [repository](https://github.com/d-khalid/iris) ]
 
-> One of my recent works. I am still working on it but feel free to take a peek
+> My recent attempt at rebuilding software that was built by brute-force and looks pitiful. I am still working on it but feel free to take a peek. (spoiler: this project is a monster and actually what I would flex in an interview)
 
 <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
 
@@ -84,7 +106,7 @@
 
 ## Public Repositories List
 
-> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me. None of the bits are vibe-coded. But it's still a work-in-progress.
+> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me (with my crap documentation skills). Not even a single bit is vibe-coded though.
 
 <details>
   <summary><code>python</code></summary>
