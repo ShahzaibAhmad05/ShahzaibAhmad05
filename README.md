@@ -16,7 +16,7 @@
 > 
 > Fair to say I haven't found anyone like me yet.
 >
-> I started out in 2023 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. This curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that went out of context soon.
+> I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. This curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that went out of context soon.
 >
 > Soon I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering (AI was there back then, I hadn't used it though). First semester was rough, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
 >
