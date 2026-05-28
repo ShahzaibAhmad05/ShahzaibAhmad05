@@ -9,7 +9,7 @@
 --> 
 
  
-## CareEnough ? Read() : ScrollBy();
+## CareEnough ? Read() : [ScrollBy()](#my-projects);
 
 
 > I'm an undergrad Software Engineer, recently completed my 4th semester. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
@@ -34,7 +34,7 @@
 >
 > And that's it, that is my intro. I lowkey wish I could give a full introduction like this in interviews but oh well. Anyways, summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse). I have learned to survive semesters by multi-tasking (and as a side effect now I can do multiple projects in different languages at the same time without breaking a sweat).
 >
-> If you are wondering why I typed so much here, I would say it isn't even a paragraph compared to the amount of documentation I consume everyday now (trust). I am currently working on rebuilding [this](https://github.com/d-khalid/IRis) project during eid holidays (im ergophilic as I mentioned).
+> If you are wondering why I typed so much here, I would say it isn't even a paragraph compared to the amount of documentation I consume everyday now (trust). I am currently working on rebuilding [this](https://github.com/d-khalid/IRis) project during Summer holidays. (im ergophilic as I mentioned)
 
 
 <table>
