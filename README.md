@@ -62,27 +62,15 @@
 
 ## My Projects
 
-### Open Source
+#### Circuit Simulator -> [ [repository](https://github.com/d-khalid/iris) ]
 
-> This one bellow represents the peak of my interest in python X CLI tools
+> One of my recent works. I am still working on it but feel free to take a peek
 
-[![gitree repository card](https://github-readme-stats-1105.vercel.app/api/pin/?username=shahzaibahmad05&repo=gitree&theme=dark&i=3)](https://github.com/shahzaibahmad05/gitree)
+<img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
 
-### Proof-of-Concept
+#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
-#### Circuit Simulator -> [ [app](https://github.com/d-khalid/iris) ]
-
-> Starting as a semester project, this one lead me deep into computer vision for the purpose of automating a task still no LLM can do today. For this project, I put together a medium-sized dataset of images and trained a YOLO model on it
->
-> After that I tied it with python scripts that put together a logic circuit into simulation from the roughest of drawings. The dataset is still published on Kaggle and fully open-source. Curious? check it out yourself
-
-<a href="https://github.com/d-khalid/iris">
-  <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
-</a>
-
-#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [kanban board](https://github.com/users/ShahzaibAhmad05/projects/4) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
-
-> A webpage that started with a few C++ files. This really had me visit the extremes for performance and memory optimization, and later I ended up adding quite a few interesting features that a search engine should ideally have
+> A webpage that started with a few C++ files. This project had me visit the extremes for performance and memory optimization, and later I ended up adding quite a few interesting features that a search engine should ideally have
 
 <a href="https://www.youtube.com/watch?v=tvpunJ4zmCg">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
@@ -96,9 +84,7 @@
 
 ## Public Repositories List
 
-> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me. None of the bits are vibe-coded.
->
-> Currently, it is obviously not the full list, but be patient, I'm adding stuff here slowly.
+> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me. None of the bits are vibe-coded. But it's still a work-in-progress.
 
 <details>
   <summary><code>python</code></summary>
@@ -143,6 +129,17 @@
   <br />
 </details>
 <details>
+  <summary><code>C#</code></summary>
+  <br />
+  <details>
+    <summary><code>Avalonia (+CommunityToolkit.Mvvm)</code></summary>
+    <br />
+    <blockquote>Mvvm Toolkit comes in handy when working with Avalonia. It's basically a library that helps implement the Mvvm design pattern better. Avalonia itself is also convenient for desktop app development.</blockquote></blockquote>
+    <a href="https://github.com/d-khalid/IRis"><code>Circuit Simulator (with offline AI-features)</code></a>
+  </details>
+  <br />
+</details>
+<details>
   <summary><code>C++</code></summary>
   <br />
   <blockquote>I don't see any difference in speed compared to python if both are optimized. But explicit types are kind of useful for readability.</blockquote>
@@ -154,11 +151,6 @@
     <br />
     <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
   </details>
-  <br />
-</details>
-<details>
-  <summary><code>C</code></summary>
-  
 </details>
 <br />
 
