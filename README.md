@@ -38,7 +38,7 @@
 
 </details>
 
-> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse).
+> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse). I mainly use Cursor (code editor) for coding. (because it's autocomplete is magic and uses the whole codebase as context)
 
 
 <table>
@@ -56,31 +56,6 @@
   </tr>
 </table>
 
-
-
-<!--
-<div align="left">
-  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![YOLO](https://img.shields.io/badge/-YOLO-000000?style=flat&logo=opencv)
-
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
-![Avalonia](https://img.shields.io/badge/-Avalonia-000000?style=flat&logo=dotnet)
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
-
-
-
-</div>
--->
 
 ![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
 
@@ -110,7 +85,7 @@
 
 ## Public Repositories List
 
-> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is typed out by me (with my crap documentation skills). Not even a single bit is vibe-coded though.
+> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is complete and high-quality.
 
 <details>
   <summary><code>python</code></summary>
