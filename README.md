@@ -65,9 +65,11 @@
 
 #### Circuit Simulator -> [ [repository](https://github.com/d-khalid/iris) ]
 
-> My recent attempt at rebuilding software that was built by brute-force and looks pitiful. I am still working on it but feel free to take a peek. (spoiler: this project is a monster and actually what I would flex in an interview)
+> A circuit simulator capable of Simulating a Mini-CPU and generating logic circuits from handdrawn sketches offline by using a custom-built shippable YOLO model.
+>
+> More importantly, have you seen a circuit simulator with this kind of UI before? This project has a lot of potential long-term which is why I am going to continue to build it.
 
-<img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/iris.jpg?raw=1" width="600" />
+<img src="https://drive.google.com/uc?export=view&id=1pkvi00Fpmv32cjTA6U9OcgyqKNS2zSjh" width="600" />
 
 #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
