@@ -9,13 +9,15 @@
 --> 
 
  
-## CareEnough ? Read() : [ScrollBy()](#my-projects);
+## Introduction
 
 
-> I'm an undergrad Software Engineer, recently completed my 4th semester. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
-> 
-> Fair to say I haven't found anyone like me yet.
->
+> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
+
+<details>
+  <summary>Click for a full intro</summary>
+  <br />
+  
 > I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. This curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that went out of context soon.
 >
 > Soon I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering (AI was there back then, I hadn't used it though). First semester was rough, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
@@ -32,9 +34,11 @@
 >
 > At the end of my 4th semester, and hence, now, I feel like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline (I mean I don't need to vibe-code at all now). I can build/rebuild about anything with enough context and some Claude discussions. In fact, I now dislike vibe-coding, (it isn't even remotely a threat to real software engineers) because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality, it pisses me off seeing it.
 >
-> And that's it, that is my intro. I lowkey wish I could give a full introduction like this in interviews but oh well. **Anyways, summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse).** I have learned to survive semesters by multi-tasking (and as a side effect now I can do multiple projects in different languages at the same time without breaking a sweat).
->
-> If you are wondering why I typed so much here, I would say it isn't even a paragraph compared to the amount of documentation I consume everyday now (trust). I am currently working on rebuilding [this](https://github.com/d-khalid/IRis) project during Summer holidays. (im ergophilic as I mentioned)
+> And that's it, that is my intro. I lowkey wish I could give a full introduction like this in interviews but oh well. **Anyways:**
+
+</details>
+
+> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse).
 
 
 <table>
