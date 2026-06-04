@@ -69,7 +69,7 @@
 >
 > More importantly, have you seen a circuit simulator with this kind of UI before? This project has a lot of potential long-term which is why I am going to continue to build it.
 
-<img src="https://drive.google.com/uc?export=view&id=1pkvi00Fpmv32cjTA6U9OcgyqKNS2zSjh" width="600" />
+<img src="https://drive.google.com/uc?export=view&id=1XRSpTK2J-R2FBAygHbqUrSVq1I6HS0DW" width="600" />
 
 #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
