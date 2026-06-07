@@ -63,7 +63,7 @@
 
 ## An Interesting Project I have Built
 
-#### Circuit Simulator -> [ [desktop app](https://github.com/d-khalid/iris) | [portable ML model](https://github.com/ShahzaibAhmad05/sketchlogic) ]
+#### Circuit Simulator -> [ [desktop app](https://github.com/d-khalid/iris) | [portable ML system](https://github.com/ShahzaibAhmad05/sketchlogic) ]
 
 > A circuit simulator capable of Simulating a Mini-CPU and generating logic circuits from handdrawn sketches offline by using a shippable YOLO fine-tune.
 >
