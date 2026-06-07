@@ -161,7 +161,7 @@
 
 ```mermaid
 timeline
-    July 2025 - Present (~1 Year) : Freelancing at Fiverr and Been Waiting for Clients to Appear
+    July 2025 - Present (~1 Year) : Freelancing at Fiverr
     March 2026 - April 2026 : Backend Developer Intern (MERN Stack) at Codexon Solutions
 ```
 
