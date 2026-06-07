@@ -9,7 +9,7 @@
 --> 
 
  
-## Introduction
+## Who am I?
 
 
 > I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
@@ -61,7 +61,7 @@
 
 <hr />
 
-## My Projects
+## An Interesting Project I have Built
 
 #### Circuit Simulator -> [ [desktop app](https://github.com/d-khalid/iris) | [portable ML model](https://github.com/ShahzaibAhmad05/sketchlogic) ]
 
@@ -71,16 +71,14 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1XRSpTK2J-R2FBAygHbqUrSVq1I6HS0DW" width="600" />
 
-#### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
+<!-- #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
 > A webpage that started with a few C++ files. This project had me visit the extremes for performance and memory optimization, and later I ended up adding quite a few interesting features that a search engine should ideally have
 
 <a href="https://www.youtube.com/watch?v=tvpunJ4zmCg">
   <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
-</a>
+</a> -->
 
-<br />
-<br />
 
 ---
 
@@ -154,8 +152,8 @@
     <br />
     <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
   </details>
+  <br />
 </details>
-<br />
 
 ---
 
@@ -163,9 +161,8 @@
 
 ```mermaid
 timeline
-    July 2025 - Present (~1 Year) : Freelancing at Fiverr
-    Oct 2025 - Present : Hired on Project basis at AgriStreams
-    March 2026 - April 2026 : MERN Stack Intern at Codexon Solutions
+    July 2025 - Present (~1 Year) : Freelancing at Fiverr and Been Waiting for Clients to Appear
+    March 2026 - April 2026 : Backend Developer Intern (MERN Stack) at Codexon Solutions
 ```
 
 
