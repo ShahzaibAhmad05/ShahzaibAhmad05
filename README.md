@@ -12,7 +12,7 @@
 ## Who am I?
 
 
-> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years at this point, which puts me to the pile of ergophilics I suppose. I enjoy building/rebuilding software, reading books of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
+> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years at this point. I enjoy building/rebuilding software, reading piles of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
 
 <details>
   <summary>Click for a full intro</summary>
@@ -34,11 +34,11 @@
 >
 > At the end of my 4th semester, and hence, now, I feel like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline. I can build/rebuild about anything with enough context and some discussions with Claude. In fact, I now dislike vibe-coding because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality if not done carefully.
 >
-> And that's it, that is my intro. I lowkey wish I could give a full introduction like this in interviews but oh well. **Anyways:**
+> And that's it, that is my intro. **Anyways:**
 
 </details>
 
-> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly and the years mentioned here overlap ofcourse). I mainly use Cursor (code editor) for coding. (because it's autocomplete is magic and uses the whole codebase as context)
+> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly). I mainly use Cursor (AI-native IDE) for coding
 
 
 <table>
