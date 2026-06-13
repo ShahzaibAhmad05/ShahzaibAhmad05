@@ -90,11 +90,16 @@
 <details>
   <summary><code>python</code></summary>
   <br />
-  <blockquote>This is the language I like the most, and so, I have typed it the most.</blockquote>
+  <details>
+    <summary><code>cv2 (+ultralytics)</code></summary>
+    <br />
+    <a href="https://github.com/ShahzaibAhmad05/SketchLogic"><code>sketch to simulation conversion system</code></a>
+    <br />
+    <br />
+  </details>
   <details>
     <summary><code>pyqt</code></summary>
     <br />
-    <blockquote>I use PyQt for GUI for desktop apps in python.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/Calculator"><code>over-engineered calculator</code></a>
     <br />
     <a href="https://github.com/ShahzaibAhmad05/pyinstaller"><code>pyinstaller (GUI wrapper for the original one)</code></a>
@@ -104,7 +109,6 @@
   <details>
     <summary><code>tesseract</code></summary>
     <br />
-    <blockquote>It's free and open source. Perfect for screen scanning.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/seb-overlay"><code>A complete patch for safe browser using OCR (educational purposes only ;)</code></a>
     <br />
     <br />
@@ -112,20 +116,17 @@
   <details>
     <summary><code>others</code></summary>
     <br />
-    <blockquote>I probably can't group these in any of the above categories, so I put them here. These are special.</blockquote>
-    <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool I created and I use it regularly)</code></a>
+    <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool I created and I use regularly)</code></a>
   </details>
   <br />
 </details>
 <details>
   <summary><code>Typescript</code></summary>
   <br />
-  <blockquote>Interesting syntax. But that doesn't mean I like javascript.</blockquote>
   <details>
     <summary><code>Nextjs & Tailwind</code></summary>
     <br />
-    <blockquote>I usually use this tech stack for web development.</blockquote>
-    <a href="https://github.com/ShahzaibAhmad05/DSA"><code>finance tracker</code></a>
+    <a href="https://github.com/ShahzaibAhmad05/fintrack"><code>finance tracker webpage</code></a>
   </details>
   <br />
 </details>
@@ -135,7 +136,6 @@
   <details>
     <summary><code>Avalonia (+CommunityToolkit.Mvvm)</code></summary>
     <br />
-    <blockquote>Mvvm Toolkit comes in handy when working with Avalonia. It's basically a library that helps implement the Mvvm design pattern better. Avalonia itself is also convenient for desktop app development.</blockquote></blockquote>
     <a href="https://github.com/d-khalid/IRis"><code>Circuit Simulator (with offline AI-features)</code></a>
   </details>
   <br />
@@ -143,32 +143,12 @@
 <details>
   <summary><code>C++</code></summary>
   <br />
-  <blockquote>I don't see any difference in speed compared to python if both are optimized. But explicit types are kind of useful for readability.</blockquote>
   <details>
     <summary><code>others</code></summary>
     <br />
-    <blockquote>No major libraries/frameworks here.</blockquote>
     <a href="https://github.com/ShahzaibAhmad05/DSA"><code>DSA stuff. Well-known and self-proclaimed Algorithms and some Leetcode problems.</code></a>
     <br />
     <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
   </details>
   <br />
 </details>
-
----
-
-## Professional Journey
-
-```mermaid
-timeline
-    July 2025 - Present (~1 Year) : Freelancing at Fiverr
-    March 2026 - April 2026 : Backend Developer Intern (MERN Stack) at Codexon Solutions
-```
-
-
-
-
-
-
-
-
