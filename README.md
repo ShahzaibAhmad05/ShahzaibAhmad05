@@ -41,35 +41,18 @@
 > Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly). I mainly use Cursor (AI-native IDE) for coding
 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/shahzaibahmad05">
-      <img src="./icons/linkedin.svg" width="44" align="center" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.fiverr.com/shahzaibahmad05">
-      <img src="./icons/fiverr.svg" width="44" align="center" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 ![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
 
-<hr />
 
-## An Interesting Project I have Built
+<!-- ## One of My Projects
 
-#### [Circuit Simulator](https://github.com/d-khalid/iris) with [offline Sketch to Simulation Converter (ML)](https://github.com/ShahzaibAhmad05/sketchlogic)
+#### A [Circuit Simulator](https://github.com/d-khalid/iris) with [offline Sketch to Simulation Converter](https://github.com/ShahzaibAhmad05/sketchlogic)
 
 > A circuit simulator capable of Simulating a Mini-CPU and generating logic circuits from handdrawn sketches offline by using a shippable YOLO fine-tune.
 >
 > More importantly, have you seen a circuit simulator with this kind of UI before? This project has a lot of potential long-term which is why I am going to continue to build it.
 
-<img src="https://drive.google.com/uc?export=view&id=1XRSpTK2J-R2FBAygHbqUrSVq1I6HS0DW" width="600" />
+<img src="https://drive.google.com/uc?export=view&id=1XRSpTK2J-R2FBAygHbqUrSVq1I6HS0DW" width="600" /> -->
 
 <!-- #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
 
@@ -80,10 +63,9 @@
 </a> -->
 
 
----
 
 
-## Public Repositories List
+<!-- ## Public Repositories List
 
 > This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is complete and high-quality.
 
@@ -151,4 +133,4 @@
     <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
   </details>
   <br />
-</details>
+</details> -->
