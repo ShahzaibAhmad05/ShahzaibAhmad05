@@ -12,7 +12,7 @@
 ## Who am I?
 
 
-> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years at this point. I enjoy building/rebuilding software, reading piles of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
+> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years uptill now. I enjoy building/rebuilding software, reading piles of documentation, and using frameworks/design patterns to upgrade codebases and find peace and satisfaction in it.
 
 <details>
   <summary>Click for a full intro</summary>
