@@ -38,7 +38,7 @@
 
 </details>
 
-> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (c#, avalonia, and Mvvm mainly). I mainly use Cursor (AI-native IDE) for coding
+> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (avalonia and Mvvm mainly).
 
 
 ![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
