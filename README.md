@@ -24,15 +24,13 @@
 >
 > I casually again spent 3 months (about half-a-semester) building a unique python desktop app with absolutely nothing in exchange. The app is still [here](https://github.com/ShahzaibAhmad05/PyAutoMate) on GitHub (caps because I like GitHub and live on it now). I felt accomplished after finishing it. It was a floating icon with nice animations that you could add scripts on in the language I defined in it and those scripts then each bind to a button and a shortcut key.
 >
-> At the near-end of that semester (start of 2025 as far as I remember) I met [this](https://github.com/d-khalid) person. He was magic. For our semester project I was having a hard time deciding what to do, he pulled off [this](https://github.com/d-khalid/IRis) project. It was truly way above my level of understanding. I could hardly contribute before the project deadline went by. But the following summer, I did contribute, I even re-typed all of the c# codebase myself to prove I can do it.
->
-> After this I went to try out ML. Vibe-coding was at peak (or so I thought through wishful thinking) so I used my crap prompting skills to get a YOLO-model to work with identifying objects in Handdrawn logic circuits (wow I trained a model but don't know how I did it, such is the result of vibe-coding).
+> At the near-end of that semester (start of 2025 as far as I remember) I had [this](https://github.com/d-khalid/IRis) as my semester project. It was truly way above my level of understanding, but I kept pushing and contributed meaningfully to it.
 >
 > The next Summer I spent building my social media presence (by this I mean LinkedIn and GitHub ofcourse). 3rd and 4th semesters were full of learning (2025-early 2026). I again casually spent a lot of time building [this](https://github.com/ShahzaibAhmad05/gitree) to sharpen my python skills and maybe get something acceptable open-source and was still somehow okay with getting nothing in exchange. I also built this [search engine](https://github.com/ShahzaibAhmad05/NextSearch-api), but the UI had to be vibe coded because of tight deadlines.
 >
 > Anyways this was when I learned `React.js`, `Next.js`, `TypeScript` and `TailwindCSS` and all the other web tech keywords. I was able to type out web pages in less than a day and acquired TailwindCSS after my practice with [this](https://github.com/ShahzaibAhmad05/FinTrack). This was made during my 4th semester when I abandoned vibe-coding completely (I still use LLMs in general but only for leverage, most of the time I am just crawling documentation manually to study it).
 >
-> At the end of my 4th semester, and hence, now, I feel like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline. I can build/rebuild about anything with enough context and some discussions with Claude. In fact, I now dislike vibe-coding because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality if not done carefully.
+> At the end of my 4th semester, I felt like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline. I can build/rebuild about anything with enough context and some discussions with Claude. In fact, I now dislike vibe-coding because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality if not done carefully.
 >
 > And that's it, that is my intro. **Anyways:**
 
