@@ -8,19 +8,19 @@
 </table>
 --> 
 
- 
-## Who am I?
+
+## Hi.
 
 
-> I have recently completed my 4th semester as an undergraduate Software Engineer. I have been coding an average of 6 hours a day for approximately 3 years uptill now. I enjoy building/rebuilding software, reading piles of documentation, and using frameworks/design patterns to upgrade codebases.
+> As a Software Engineer I have been working on building and fixing software for approximately 3 years uptill now. I enjoy reading piles of documentation about frameworks and design patterns to constantly keep adding to my mini-mountain of knowledge.
 
 <details>
   <summary>Click for a full intro</summary>
   <br />
   
-> I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. Curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that moved close to the recycle bin soon.
+> I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. Curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that moved into the recycle bin soon.
 >
-> One year later, I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering. First semester was rough, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
+> One year later, I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering. First semester was rough academically, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
 >
 > I casually again spent 3 months (about half-a-semester) building a unique python desktop app with absolutely nothing in exchange. The app is still [here](https://github.com/ShahzaibAhmad05/PyAutoMate) on GitHub (caps because I like GitHub and live on it now). I felt accomplished after finishing it. It was a floating icon with nice animations that you could add scripts on in the language I defined in it and those scripts then each bind to a button and a shortcut key.
 >
@@ -36,7 +36,7 @@
 
 </details>
 
-> Summing up, I have spent approximately 2 years on python, 1 year on web tech, 1 year on DOTNET (avalonia and Mvvm mainly).
+> As for my technical experience in a nutshell, I have spent approximately 2.5 years on python, 1 year on web tech and 1 year on DOTNET (avalonia and Mvvm mainly)
 
 
 ![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
