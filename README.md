@@ -12,7 +12,7 @@
 ## Hi.
 
 
-> As a Software Engineer I have been working on building and fixing software (including SaaS as well as Desktop Apps) for approximately 3 years uptill now. I enjoy reading piles of documentation about frameworks and design patterns which I believe adds to my code Architecturing skill.
+> As a Software Engineer I have been working on building and fixing software (including SaaS as well as Desktop Apps) for approximately 3 years uptill now. I enjoy reading piles of documentation about frameworks and design patterns which I believe adds to my programmer IQ.
 
 <details>
   <summary>Click for a full intro</summary>
@@ -40,95 +40,3 @@
 
 
 ![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9)
-
-
-<!-- ## One of My Projects
-
-#### A [Circuit Simulator](https://github.com/d-khalid/iris) with [offline Sketch to Simulation Converter](https://github.com/ShahzaibAhmad05/sketchlogic)
-
-> A circuit simulator capable of Simulating a Mini-CPU and generating logic circuits from handdrawn sketches offline by using a shippable YOLO fine-tune.
->
-> More importantly, have you seen a circuit simulator with this kind of UI before? This project has a lot of potential long-term which is why I am going to continue to build it.
-
-<img src="https://drive.google.com/uc?export=view&id=1XRSpTK2J-R2FBAygHbqUrSVq1I6HS0DW" width="600" /> -->
-
-<!-- #### Search Engine -> [ [frontend](https://github.com/shahzaibahmad05/nextsearch-web) | [backend](https://github.com/shahzaibahmad05/nextsearch-api) | [demo](https://www.youtube.com/watch?v=tvpunJ4zmCg) ]
-
-> A webpage that started with a few C++ files. This project had me visit the extremes for performance and memory optimization, and later I ended up adding quite a few interesting features that a search engine should ideally have
-
-<a href="https://www.youtube.com/watch?v=tvpunJ4zmCg">
-  <img src="https://github.com/ShahzaibAhmad05/ShahzaibAhmad05/blob/main/previews/nextsearch.jpg?raw=1" width="600" />
-</a> -->
-
-
-
-
-<!-- ## Public Repositories List
-
-> This is a list of my repositories grouped by respective tech stacks. Each project you'll find here is complete and high-quality.
-
-<details>
-  <summary><code>python</code></summary>
-  <br />
-  <details>
-    <summary><code>cv2 (+ultralytics)</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/SketchLogic"><code>sketch to simulation conversion system</code></a>
-    <br />
-    <br />
-  </details>
-  <details>
-    <summary><code>pyqt</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/Calculator"><code>over-engineered calculator</code></a>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/pyinstaller"><code>pyinstaller (GUI wrapper for the original one)</code></a>
-    <br />
-    <br />
-  </details>
-  <details>
-    <summary><code>tesseract</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/seb-overlay"><code>A complete patch for safe browser using OCR (educational purposes only ;)</code></a>
-    <br />
-    <br />
-  </details>
-  <details>
-    <summary><code>others</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/gitree"><code>gitree (it's a cli-tool I created and I use regularly)</code></a>
-  </details>
-  <br />
-</details>
-<details>
-  <summary><code>Typescript</code></summary>
-  <br />
-  <details>
-    <summary><code>Nextjs & Tailwind</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/fintrack"><code>finance tracker webpage</code></a>
-  </details>
-  <br />
-</details>
-<details>
-  <summary><code>C#</code></summary>
-  <br />
-  <details>
-    <summary><code>Avalonia (+CommunityToolkit.Mvvm)</code></summary>
-    <br />
-    <a href="https://github.com/d-khalid/IRis"><code>Circuit Simulator (with offline AI-features)</code></a>
-  </details>
-  <br />
-</details>
-<details>
-  <summary><code>C++</code></summary>
-  <br />
-  <details>
-    <summary><code>others</code></summary>
-    <br />
-    <a href="https://github.com/ShahzaibAhmad05/DSA"><code>DSA stuff. Well-known and self-proclaimed Algorithms and some Leetcode problems.</code></a>
-    <br />
-    <a href="https://github.com/Hanzila-Nawazz/virtual-file-system"><code>A virtual file system (created while learning OS fundamentals)</code></a>
-  </details>
-  <br />
-</details> -->
