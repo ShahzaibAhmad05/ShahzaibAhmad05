@@ -39,4 +39,7 @@
 > And as for my technical experience, I have spent approximately 2.5 years on python, 1 year on web tech and 1 year on DOTNET.
 
 
-![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=1)
+![GitHub Stats](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=2)
+
+
+
