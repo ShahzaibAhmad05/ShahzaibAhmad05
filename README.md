@@ -12,7 +12,7 @@
 ## Hi.
 
 
-> As a Software Engineer I have been working on building and fixing software (including SaaS as well as Desktop Apps) for approximately 3 years uptill now. I enjoy reading piles of documentation about frameworks and design patterns which I believe adds to my programmer IQ.
+> Software Engineer with 3+ years spent on building and fixing all kinds of different software. I enjoy reading piles of documentation about frameworks and design patterns which I believe adds to my programmer IQ.
 
 <details>
   <summary>Click for a full intro</summary>
@@ -36,7 +36,7 @@
 
 </details>
 
-> And as for my technical experience, I have spent approximately 2.5 years on python, 1 year on web tech and 1 year on DOTNET.
+> My technical experience is distributed across approximately 3 years of python, 1.5 years of web tech and 1.5 years of DOTNET.
 
 
 ![it's fine if you aren't seeing this. It's just some dumb meaningless decoration](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=3)
