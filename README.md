@@ -36,7 +36,7 @@
 
 </details>
 
-> My technical experience is distributed across approximately 3 years of python, 1.5 years of web tech and 1.5 years of DOTNET.
+> My technical experience is distributed across 3 years of python, 1.5 years of web tech and 1.5 years of DOTNET.
 
 
 ![it's fine if you aren't seeing this. It's just some dumb meaningless decoration](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=3)
