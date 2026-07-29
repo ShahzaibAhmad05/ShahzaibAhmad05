@@ -18,9 +18,9 @@
   <summary>Click for a full intro</summary>
   <br />
   
-> I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. Curiousity lead to further curiousity and I ended up learning the basics of C++. Next I remember I was making tools, CLI-based games and all kinds of weird things that moved into the recycle bin soon.
+> I started out in late 2022 with typing HTML and CSS for 3 months (and a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. Curiousity lead to further curiousity and I ended up learning the basics of C++ and soon, python. Next I remember I was making tools, CLI-based games and all kinds of weird things that moved into the recycle bin soon.
 >
-> One year later, I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering. First semester was rough academically, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started learning python (around end of 2024).
+> One year later, I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering. First semester was rough academically, (but that's irrelevant here) I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started working on my python skills.
 >
 > I casually again spent 3 months (about half-a-semester) building a unique python desktop app with absolutely nothing in exchange. The app is still [here](https://github.com/ShahzaibAhmad05/PyAutoMate) on GitHub (caps because I like GitHub and live on it now). I felt accomplished after finishing it. It was a floating icon with nice animations that you could add scripts on in the language I defined in it and those scripts then each bind to a button and a shortcut key.
 >
