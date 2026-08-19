@@ -12,34 +12,28 @@
 ## Hi.
 
 
-> Software Engineer with 3+ years spent on building and fixing all kinds of different software. I enjoy reading piles of documentation about frameworks and design patterns which I believe adds to my programmer IQ.
+> I've spent 3+ years on building/fixing all kinds of different software. The environment of development is changing; and so am I. Everyday I'm learning to design like never before, because generating code is no longer a bottleneck for startups, AND getting appealing design from their small team of engineers is.
 
 <details>
   <summary>full intro</summary>
   <br />
   
-> I started out in late 2022 with typing HTML and CSS for 3 months (with a fair bit of what's called JavaScript) for absolutely nothing in exchange but curiousity. Curiousity led to further curiousity and I ended up learning the basics of C++ and soon, python. Next I remember I was making tools, CLI-based games and all kinds of weird things that moved into the recycle bin soon.
+> I started out in late 2022 with typing HTML, CSS and Javascript for 3 months for absolutely nothing in exchange but curiousity. Curiousity led to further curiousity and I ended up learning the basics of C++ and soon, python. All the tools I made back then looked pretty awesome, but they didn't get to have real users. That was the gap.
 >
-> One year later, I had to choose a major at [NUST](https://nust.edu.pk/) and I chose Software engineering. First semester was rough academically and I wasn't getting the time to do what I wanted to do. In second semester, I ditched whatever coursework was keeping me busy and started working on my python skills.
+> In 2024, I chose to do software engineering at NUST. I was never too focused on academics, nor in research; I just did whatever seemed best long-term. Everyday, I would sit in-front of my computer and code till my back started hurting. That's just how much interested I was.
 >
-> I casually again spent 3 months (about half-a-semester) building a unique python desktop app with absolutely nothing in exchange. The app is still [here](https://github.com/ShahzaibAhmad05/PyAutoMate) on GitHub. It was a floating icon with nice animations that you could add scripts on in the language I defined in it and those scripts then each bind to a button and a shortcut key.
+> One of the tools/apps I built while exploring automation was [pyautomate](https://github.com/ShahzaibAhmad05/pyautomate). It was a floating tool with it's own language that would compile to a button on the tool which you could click and get it to automate things which involved computer-use.
 >
-> At the near-end of that semester (start of 2025 as far as I remember) I had [this](https://github.com/d-khalid/IRis) as my semester project. It was truly way above my level of understanding, but I kept pushing myself to learn the tech surrounding it and got better.
+> I built [IRis](https://github.com/d-khalid/IRis) which started as a semester project. I explored a lot of the dotnet ecosystem while building it. It's still relevant around today and has a bunch of users, even in this era of AI. I also casually spent a lot of time building [gitree](https://github.com/ShahzaibAhmad05/gitree) to sharpen my python skills and contribute to the open-source community.
 >
-> The next Summer I spent building my social media presence (by this I mean LinkedIn and GitHub ofcourse). 3rd and 4th semesters were full of learning (2025-early 2026). I again casually spent a lot of time building [this](https://github.com/ShahzaibAhmad05/gitree) to sharpen my python skills and maybe get something acceptable open-source and was still somehow okay with getting nothing in exchange. I also built this [search engine](https://github.com/ShahzaibAhmad05/NextSearch-api), but the UI had to be vibe coded because of tough deadlines.
+> I made a [finance tracker](https://github.com/ShahzaibAhmad05/finance-tracker) with all the codebase hand-typed manually so I could get an excellent grip on tailwindcss flexbox-es and responsive design. Feeling proud to say my approach did worked out; I can now do changes in UI without wasting a lot of tokens asking `Claude`.
 >
-> Anyways this was when I learned `React.js`, `Next.js`, `TypeScript` and `TailwindCSS` and all the other web tech keywords. I was able to type out web pages in less than a day and acquired TailwindCSS after my practice with [this](https://github.com/ShahzaibAhmad05/FinTrack). This was made during my 4th semester when I abandoned vibe-coding completely (I still use LLMs in general but only for leverage, most of the time I am just crawling documentation manually to study it).
->
-> At the end of my 4th semester, I felt like my software-building skills are developed enough to not be using vibe-coding as an excuse for a midnight deadline. I can build/rebuild about anything with enough context and some discussions with Claude. In fact, I now dislike vibe-coding because of the technical debt it ships with each bit of code. Everything done by an LLM is just so low-quality if not done under technical supervision.
->
-> And that's it, that is my intro. **Anyways:**
+> In my fourth semester at NUST, I switched from the flaky copilot and antigravity combo to using Cursor Pro and Claude web interface. Claude would often run out of limits so I made [instructions](https://github.com/ShahzaibAhmad05/claude-instructions) for it. And from then on, it gives very short, to-the-point responses and almost never hits the caps;
+> 
+> Then, at some point, I was convinced that the tools I used could be upgraded. I switched to what I call the Claude ecosystem. Claude desktop-app, Claude Code for projects, Claude-extension in my browser, Claude design and Claude app on my phone. It all just fitted in so seemlessly that it felt more natural than my existing setup. So I switched.
 
 </details>
 
-> My technical experience spans 3 years of python, 1.5 years of web tech and 1.5 years of DOTNET.
-
-
-![it's fine if you aren't seeing this. It's just some dumb meaningless decoration](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=3)
+![a dumb decoration piece about my github stats, but it looks good](https://github-readme-stats-1105.vercel.app/api?username=shahzaibahmad05&show_icons=true&theme=github_dark&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&i=3)
 
 If you are looking to contact me, please do so via email at [shahzaibahmad6789@gmail.com](mailto:shahzaibahmad6789@gmail.com)
-
