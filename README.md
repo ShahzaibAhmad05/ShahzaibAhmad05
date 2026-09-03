@@ -1,5 +1,5 @@
 ## Hi.
-> I've spent 3+ years building and fixing all kinds of different software. The environment of development is changing, and so am I. Everyday I'm learning to design like never before, because generating code is no longer a bottleneck for startups, AND getting appealing design from their small team of engineers is.
+> I've spent 3+ years building and fixing all kinds of different software. Through the struggle of the continuously changing environment and a rush, I have learned most of the tech available today for software. I am familiar with a good amount of elegant design techniques (figma/claude-design/impeccable) and AI tools (codex/claude) used to build high-quality applications.
 
 <details>
   <summary>full intro</summary>
